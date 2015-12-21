@@ -1,4 +1,4 @@
 ---
 permalink: /lifecycle-of-a-project/
-title: Lifecycle of a Project
+title: The lifecycle of a project
 ---
