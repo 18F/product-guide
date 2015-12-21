@@ -1,4 +1,4 @@
 ---
 permalink: /getting-started/
-title: Getting Started
+title: Getting started
 ---
