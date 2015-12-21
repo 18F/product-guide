@@ -1,5 +1,5 @@
 ---
 permalink: /lifecycle-of-a-project/user-research/
-title: User Research
+title: User research
 parent: Lifecycle of a Project
 ---
