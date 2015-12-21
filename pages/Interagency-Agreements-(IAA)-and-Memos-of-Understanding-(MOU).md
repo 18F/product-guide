@@ -1,0 +1,14 @@
+---
+permalink: /lifecycle-of-a-project/iaas-and-mous/
+title: Interagency Agreements (IAA) and Memos of Understanding (MOU)
+parent: Lifecycle of a Project
+---
+A potential project is shepherded by Business Development until the time it’s approved and it exits intake and enters the IAA process. Peruse [our public IAA repository](https://pages.18f.gov/agreements-public/) to familiarize yourself what an IAA looks like. Feel free to jump into [#iaa](https://18f.slack.com/messages/iaa/) if there are questions. More information about our internal processes and forms for IAAs are [on the Hub](https://hub.18f.gov/team-ops/resources/iaa/) and we’ve got a [Mural.ly board](http://mur.al/YEAoProA) that demonstrates what this process looks like for our product leads. This movement is shepherded by you, the Project Lead, in collaboration with the IAA team. It should be initiated once the project clears through intake by you submitting an [IAA Request Form](https://docs.google.com/a/gsa.gov/forms/d/13--i0fRhgSgP9sRVkn7RvPN0Lrbwvg4cpMOctN3Ygrc/viewform). 
+
+18F provides services to federal agencies, and is funded by the [Acquisition Services Fund (ASF)](http://www.gsa.gov/portal/content/150047), which requires reimbursement in full. We therefore charge our client partners — the federal agencies who engage us for project work — for our actual time and material costs, plus a fixed overhead amount. In order to legally charge agencies, 18F must enter into an IAA with each of our clients. If the agency with whom we are partnering with is outside of the GSA, they can find more information about the IAA process on [our IAA Site](https://pages.18f.gov/iaa-forms/). If the agency with whom we are partnering with is inside the GSA, we create a slightly different agreement called a memorandum of understanding, or an MOU. 
+
+Before the IAA (or MOU) is signed by both agencies, no delivery work may begin. The IAA specifies a period of performance, which usually starts on the date of last signature of the parties; 18F begins work with the client on or after that day. 
+
+Many people are involved in the IAA process. A product lead is identified, the resourcing team gets involved, and the finance team helps put together a plan. Joshua Bailes, on [#teamops](https://18f.slack.com/messages/teamops), is currently 18F’s expert on IAAs. The process can be long and if you’re ever in doubt of what needs to happen next or if you’re responsible for any of it, ask Joshua. You can find [a checklist to guide you through the process](https://hub.18f.gov/team-ops/resources/iaa/project-lead-checklist/) amongst many other materials on the Hub and linked above. 
+
+Infrastructure is part of the IAA process, and Noah Kunin (Director of Infrastructure) will be involved to classify the project according to probable infrastructure needs.
