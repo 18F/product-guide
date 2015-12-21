@@ -1,5 +1,5 @@
 ---
 permalink: /lifecycle-of-a-project/project-start/
-title: Project Start
+title: Project start
 parent: Lifecycle of a Project
 ---
