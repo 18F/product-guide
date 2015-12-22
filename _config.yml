@@ -47,8 +47,38 @@ navigation:
   - text: Intake
     url: intake/
     internal: true
-  - text: Technical Evaluation
+  - text: Technical evaluations
     url: tech-eval/
+    internal: true
+  - text: Your team (a.k.a. Resourcing)
+    url: resourcing/
+    internal: true
+  - text: Interagency Agreements (IAA) and Memos of Understanding (MOU)
+    url: iaas-and-mous/
+    internal: true
+ - text: Budgeting
+    url: budgeting/
+    internal: true
+  - text: Project start
+    url: project-start/
+    internal: true
+  - text: User research
+    url: user-research/
+    internal: true
+  - text: Design and development
+    url: design-and-development/
+    internal: true
+  - text: Infrastructure
+    url: infrastructure/
+    internal: true
+  - text: Project Communications
+    url: project-communications/
+    internal: true
+  - text: After you ship
+    url: after-you-ship/
+    internal: true
+  - text: Renewals & Handoffs
+    url: renewals-and-handoffs/
     internal: true
 - text: Other Resources
   url: other-resources/
