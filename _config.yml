@@ -37,8 +37,8 @@ navigation:
 - text: Getting Started
   url: getting-started/
   internal: true
-- text: What is a Product Lead at 18F?
-  url: what-is-a-product-lead-at-18f/
+- text: What is a Product Lead?
+  url: what-is-a-product-lead/
   internal: true
 - text: Lifecycle of a Project
   url: lifecycle-of-a-project/
