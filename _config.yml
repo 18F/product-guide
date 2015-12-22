@@ -56,7 +56,7 @@ navigation:
   - text: Interagency Agreements (IAA) and Memos of Understanding (MOU)
     url: iaas-and-mous/
     internal: true
- - text: Budgeting
+  - text: Budgeting
     url: budgeting/
     internal: true
   - text: Project start
