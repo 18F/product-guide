@@ -53,7 +53,7 @@ navigation:
   - text: Your team (a.k.a. Resourcing)
     url: resourcing/
     internal: true
-  - text: Interagency Agreements (IAA) and Memos of Understanding (MOU)
+  - text: IAAs & MOUs
     url: iaas-and-mous/
     internal: true
   - text: Budgeting
