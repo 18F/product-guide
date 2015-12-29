@@ -29,11 +29,13 @@ If you have questions or suggestions, head over to [#design-methods](https://18f
 One of 18F’s founding principles is to take advantage of open source software development. Open source software facilitates cross-agency and industry sharing, provides extraordinary cost savings, and increases our impact. We always default to open source because:
 
 **Transparency leads to trust.**
+
 -   It builds public trust in the development of the application and the interests represented, since those are visible in GitHub.
 -   It builds trust between 18F and the agency partner(s), since everyone’s work is open and accessible to others.
 -   It builds trust within the government, since the work is public from day one and we can reference methods and ideas from project to project without worrying about revealing inappropriate information.
 
 **Open source streamlines work.**
+
 -   Working in the open helps to encourage good documentation and coding practices.
 -   Everyone is aware and following processes for open information from day one.
 -   There is no just-before-launch, last minute reviews of everything. All code and documentation is reviewed as it’s developed.
@@ -41,10 +43,12 @@ One of 18F’s founding principles is to take advantage of open source software 
 -   The pre-launch and post-launch process is the same, which optimizes workflow.
 
 **Working in the open streamlines communication.**
+
 -   Easy internal communications without the need to access permissions, account creation, etc.
 -   Key partners have access to information without back-and-forth email approvals and account creation and authorization.
 
 **Open source saves the government and the public money and time.**
+
 -   Sharing code and allowing other agencies to build, reuses, reshare, and contribute to our open source platforms allows us to save time and money and work together collaboratively, rather than in silos.
 -   Open source is not proprietary and tied to any specific vendor or system, so a properly-documented project can be maintained by many different people.
 
