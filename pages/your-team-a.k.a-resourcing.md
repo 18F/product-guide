@@ -13,7 +13,7 @@ You are not on your own when it comes to finding the resources you may need. Whe
 ###Resourcing developers
 Feel free to post an [opportunity](https://openopps.digitalgov.gov/), make sure to tag it with “18F”, and promote it in appropriate Slack channels. If other federal employees are interested in the project, you’re welcome to accept them as helpers or you can prefer a dedicated 18F staffer, but you do need to engage or reject people based on actual qualifications.
 
-##Resourcing designers
+###Resourcing designers
 The design director will assign you specific people through the intake resourcing process or let you know when they will be available.
 
 ###Resourcing user research
