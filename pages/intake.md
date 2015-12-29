@@ -3,7 +3,7 @@ permalink: /lifecycle-of-a-project/intake/
 title: Intake
 parent: Lifecycle of a Project
 ---
-Before we dig deeper into what project intake means for a product lead, take a minute to familiarize yourself with the basics by checking out the [18F Intake guide](https://pages.18f.gov/intake/) and [Project Intake 101](https://docs.google.com/document/d/13h8iQ5ukD23-p6SMIzF-zHtOMtoMhqAdBBHRP62n6b8/edit#heading=h.olyj1iimu50p). This guide will introduce you to the various people and components of the intake process, including:
+Before we dig deeper into what project intake means for a product lead, take a minute to familiarize yourself with the basics by checking out the [18F Intake guide](https://pages.18f.gov/intake/) and [All Things 18F Intake](https://hub.18f.gov/private/intake/). This guide will introduce you to the various people and components of the intake process, including:
 
 -   Business Development Team members 
 -   The [#project-intake](https://18f.slack.com/archives/project-intake) channel on Slack
