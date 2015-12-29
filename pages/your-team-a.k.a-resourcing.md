@@ -17,7 +17,7 @@ The design director will assign you specific people through the intake resourcin
 ##Resourcing user research
 If you don’t have a dedicated researcher on your team, make sure to drop into [#research](https://18f.slack.com/messages/research/) for guidance. Folks from the Research Guild will be happy to review your research plan and provide feedback. The Research Guild promotes best practices at 18F and in the rest of the government.
 
-###TL;DR - Always go through the aforementioned processes instead of soliciting work from individual engineers and designers. This ensures that our project work remains organized and individuals don’t take on more work than they can handle.
+**TL;DR - Always go through the aforementioned processes instead of soliciting work from individual engineers and designers.** This ensures that our project work remains organized and individuals don’t take on more work than they can handle.
 
 ##Onboarding new team members
 As a product lead, it’s important that you invest some time from the very start in getting your new team members acclimated to your team and processes. You want the team to feel empowered and comfortable with agile as well as with one another. Take the opportunity during your first few meetings and sprint plannings to make sure everybody is on the same page. Do not expect everything to make sense to everybody from the very start.
