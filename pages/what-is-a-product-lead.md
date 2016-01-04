@@ -16,7 +16,7 @@ Product leads can wear a lot of different hats, but more than anything, a produc
 -   Are project risks being tracked and mitigated?
 -   Do the team members know what is expected of them, and can they deliver?
 
-**Agile coach** for the team. Champion agile practices and behaviors from all the team members so that the team feels empowered and comfortable with agile and could theoretically coach themselves. See more in the agile section below. Continuously think about: 
+**Agile coach** for the team. Champion agile practices and behaviors from all the team members so that the team feels empowered and comfortable with agile and could theoretically coach themselves. See more in [Agile Principles & Practices](https://pages.18f.gov/agile/) guide. Continuously think about: 
 
 -   Do we have small stories that we can deliver iteratively?
 -   Are we continuously improving our process?
