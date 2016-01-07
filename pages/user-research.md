@@ -3,6 +3,8 @@ permalink: /lifecycle-of-a-project/user-research/
 title: User research
 parent: Lifecycle of a Project
 ---
+This page is under construction.
+
 ###Early planning and discovery
 As articulated in our [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/), we start every new engagement by taking a [fresh look at the problem](https://pages.18f.gov/partnership-playbook/3-problem-first/). We do this as a joint team with the client over the course of two to six weeks depending on the scope of the engagement. During this phase, which we call “Discovery”, the core product team interviews users and agency stakeholders to validate and more deeply understand the problem, desired goals and outcomes, and the organization’s priorities. This discovery phase is facilitated by a UX designer or researcher (who should be assigned to your team during the [intake resourcing process]({{ site.baseurl }}/lifecycle-of-a-project/resourcing/)) and should include observation and participation by the entire team, including you, designers, developers, and the product owner on the partner side.
 
