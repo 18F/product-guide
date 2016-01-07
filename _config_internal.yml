@@ -31,6 +31,7 @@ logoalt: 18F logo
 # More info:
 # https://github.com/18F/pages-server/blob/master/README.md#publishing-to-internal-and-external-sites-from-the-same-branch
 internal: true
+internalSiteDir: 18FOnly
 
 # Navigation
 # List links that should appear in the site sidebar here
