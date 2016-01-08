@@ -12,3 +12,5 @@ lifecycle. Please share lessons learned with your peers so that we may all
 benefit from them. Sharing what you learn means our team only has to solve a
 problem once.  Whether you add that information here or write a blog post —
 your avenue for sharing it is up to you!
+
+{% if site.internal %}REDACTED TO PROTECT THE INNOCENT AND THEIR VICTIMS{% endif %}
