@@ -62,7 +62,7 @@ navigation:
   - text: Project start
     url: project-start/
     internal: true
-  - text: Before You Ship & Authority to Operate (ATO) 
+  - text: Before You Ship & ATO 
     url: before-you-ship/
     internal: true
   - text: User research
