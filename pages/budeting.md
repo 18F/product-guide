@@ -36,7 +36,7 @@ Does the project require any other specialized resources that aren’t covered b
 ###How to estimate
 **Tech eval**
 
-During the [tech eval phase](/lifecycle-of-a-project/tech-eval/), the project scope will become clearer and inform what type of hosting needs will be required for the project. The engineering team will also be able to shed light on roughly how many people it will take to achieve this project.
+During the [tech eval phase]({{ site.baseurl }}/lifecycle-of-a-project/tech-eval/), the project scope will become clearer and inform what type of hosting needs will be required for the project. The engineering team will also be able to shed light on roughly how many people it will take to achieve this project.
 
 **Talking to functional leads**
 
