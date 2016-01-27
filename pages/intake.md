@@ -10,7 +10,7 @@ Before we dig deeper into what project intake means for a product lead, take a m
 -   Our [recommendation document template](https://docs.google.com/document/d/1x2ZsnWDN9gYwIVTrVYwFcud4JNJfBc6edxbOB9ZKnWo/edit) that we use to evaluate project alignment with 18F
 -   How we track and work with clients (outlined in the [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/) and the [18F Opportunity Tracker](https://docs.google.com/spreadsheets/d/1bQMf2lt7jtrTVSh02UmK_l5nqVF7TE44fbHwB-IM4qI/edit#gid=964099770))
 -   The [intake agenda](https://docs.google.com/document/d/1ssFdsuGLA_ZQt286ZZeeaXuhuqpNUa5ETY6dx-hXZOI/edit) that is updated and reviewed in our weekly intake standups
--   How projects are currently being resourced
+-   How projects are currently being staffed
 
 The Business Development team has made the 18F intake process wonderfully transparent and makes details of the process available to all in our weekly intake meeting and the [Project Intake & Selection folder](https://drive.google.com/drive/u/1/folders/0B84F26FpUP0lVkUyeTh1OEpqc2c) on the 18F Team Google Drive. By doing so, everybody at 18F can glean information as to why and how we take on various projects.
 
