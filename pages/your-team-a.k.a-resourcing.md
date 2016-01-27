@@ -1,21 +1,21 @@
 ---
-permalink: /lifecycle-of-a-project/resourcing/
-title: Your team (a.k.a Resourcing)
+permalink: /lifecycle-of-a-project/staffing/
+title: Your team (a.k.a Staffing)
 parent: Lifecycle of a Project
 ---
 
 As 18F grows and takes on more projects, it can sometimes be challenging to obtain full-time resources for individual projects. Know that 18F will not say yes to a project nor will we start work until we can identify a dedicated team for that project. 
-You are not on your own when it comes to finding the resources you may need. First and foremost, when you’re assigned as a product lead to a particular project, you’ll also be assigned a team for the initial scope of work by the division leads. This will happen after the IAA has been signed or, in cases where there is no IAA, after the project has been prioritized. This will be communicated to you by the Business Development Team. If you have questions, reach out in [#project-intake](https://18f.slack.com/archives/project-intake). If/when that scope changes or you’ve noticed a shift in your resourcing needs, make sure the delivery directors are aware of these changes. It’s important to note that resourcing is currently a known problem area that we’re working to address. 
+You are not on your own when it comes to finding the resources you may need. First and foremost, when you’re assigned as a product lead to a particular project, you’ll also be assigned a team for the initial scope of work by the division leads. This will happen after the IAA has been signed or, in cases where there is no IAA, after the project has been prioritized. This will be communicated to you by the Business Development Team. If you have questions, reach out in [#project-intake](https://18f.slack.com/archives/project-intake). If/when that scope changes or you’ve noticed a shift in your staffing needs, make sure the delivery directors are aware of these changes. It’s important to note that staffing is currently a known problem area that we’re working to address. 
 
 **TL;DR - You will be assigned a team by the Business Development Team. If other needs arise, follow these processes instead of soliciting work from individual engineers and designers.** This ensures that our project work remains organized and individuals don’t take on more work than they can handle.
 
-###Resourcing developers
+###Staffing developers
 Feel free to post an [opportunity](https://openopps.digitalgov.gov/), make sure to tag it with “18F”, and promote it in appropriate Slack channels. If other federal employees are interested in the project, you’re welcome to accept them as helpers or you can prefer a dedicated 18F staffer, but you do need to engage or reject people based on actual qualifications.
 
-###Resourcing designers
-The design director will assign you specific people through the intake resourcing process or let you know when they will be available.
+###Staffing designers
+The design director will assign you specific people through the intake staffing process or let you know when they will be available.
 
-###Resourcing user research
+###Staffing user research
 If your assigned team doesn’t include a dedicated researcher, make sure to drop into [#research](https://18f.slack.com/messages/research/) for guidance. Folks from the Research Guild will be happy to review your research plan and provide feedback. The Research Guild promotes best practices at 18F and in the rest of the government.
 
 ###Onboarding new team members
