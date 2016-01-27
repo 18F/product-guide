@@ -50,8 +50,8 @@ navigation:
   - text: Technical evaluations
     url: tech-eval/
     internal: true
-  - text: Your team (a.k.a. Resourcing)
-    url: resourcing/
+  - text: Your team (a.k.a. Staffing)
+    url: staffing/
     internal: true
   - text: IAAs & MOUs
     url: iaas-and-mous/
@@ -62,7 +62,7 @@ navigation:
   - text: Project start
     url: project-start/
     internal: true
-  - text: Before You Ship & Authority to Operate (ATO) 
+  - text: Before You Ship & ATO 
     url: before-you-ship/
     internal: true
   - text: User research
