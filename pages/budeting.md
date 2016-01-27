@@ -19,7 +19,7 @@ Below are some of the most important things to estimate at the start of the proj
 
 **Billable time for the team**
 
-Typically, the biggest component of the budget will be labor hours. This is best estimated by asking subject matter experts to help estimate hours. For instance, asking a frontend engineer in [#eng-facilitators](https://18f.slack.com/messages/eng-facilitators/) to help estimate the time required for the known project interface could be helpful. This typically occurs during the [tech eval phase](/lifecycle-of-a-project/tech-eval/) of the intake process, or alternatively you could ask group leads for estimates. Be sure to ping each resource you’ll potentially need on the project. Consider backend, frontend engineering, design, content, and product management staff during your estimation, all of whom have an appropriate slack channel for this kind of discussion.
+Typically, the biggest component of the budget will be labor hours. This is best estimated by asking subject matter experts to help estimate hours. For instance, asking a frontend engineer in [#eng-facilitators](https://18f.slack.com/messages/eng-facilitators/) to help estimate the time required for the known project interface could be helpful. This typically occurs during the [tech eval phase]({{ site.baseurl }}/lifecycle-of-a-project/tech-eval/) of the intake process, or alternatively you could ask group leads for estimates. Be sure to ping each resource you’ll potentially need on the project. Consider backend, frontend engineering, design, content, and product management staff during your estimation, all of whom have an appropriate slack channel for this kind of discussion.
 
 **Travel costs**
 
