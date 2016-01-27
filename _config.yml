@@ -59,6 +59,9 @@ navigation:
   - text: Budgeting
     url: budgeting/
     internal: true
+  - text: Billing
+    url: billing/
+    internal: true
   - text: Project start
     url: project-start/
     internal: true
