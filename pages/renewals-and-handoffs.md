@@ -57,6 +57,8 @@ Export all issues and GitHub-oriented project management artifacts.
 
 If the project will be switched to different servers, know the infrastructure stakeholders involved and the technical capabilities of their teams as early as possible. Infrastructure stakeholders are anyone who would be on a transition team for a project going to operations and maintenance , say, in the agency's IT department. Bringing these folks in early lets us educate them about the technology stacks we use and gives them time to evaluate how they will support the project once it transitions. Educating them helps us preserve the project going forward, by ensuring that the team can support the project as it exists in its open source, actively maintained form.
 
+###Fielding questions
+
 You’re likely going to have to field and triage a great deal of questions as you move through your transition. Many if not all of these questions come from a very enterprise IT department. While we will likely encounter some of these questions with our partners, not all of them will be relevant to every project that we do. You can typically turn to the developers on your team to answer these questions. With any luck, you might be able to deduce some of this from the project documentation. Some of the questions you might get from the client will be:
 
 -   Is the product security certified? Can we see evidence? (FISMA, etc)
