@@ -58,7 +58,11 @@ You should also know that 18F does have rate changes, which requires additional 
 
 ###More resources
 [How We Bill](https://docs.google.com/document/d/1Vm_gvwfxJVTLtM0-al62-o6dBySjQKI0zQkSvGfii6w/edit) 
+
 [How much do you charge per hour?](https://docs.google.com/document/d/1Ou6pKGReuuE0HhujURRnhiosgfDonKY3sSiDlM_jnqo/edit)
+
 [Labor Rate Change Talking Points](https://docs.google.com/document/d/1VHt3HNJQZXZrdYi-aTsekC3O_B3QNMTTxiu5ygsSuRY/edit)
+
 [IAA cost estimation worksheet](https://docs.google.com/spreadsheets/d/1bOGOs1Zg_KqIG2XbqLXDY1zRdmvpxqV2zUjnDYT5CoA/edit#gid=0)
+
 **Slack channels:** [#product](https://18f.slack.com/messages/product), [#finance](https://18f.slack.com/messages/finance/), [#iaa](https://18f.slack.com/messages/iaa/), [#devops](https://18f.slack.com/messages/devops), [#eng-facilitators](https://18f.slack.com/messages/eng-facilitators/), [#design](https://18f.slack.com/messages/design)
