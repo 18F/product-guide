@@ -5,7 +5,7 @@ parent: Lifecycle of a Project
 ---
 ###Developing a project comms plan
 
-The distributed team at 18F makes it crucial for communication plans to be established for every project early on — you won’t run into your teammates at the water cooler when they work across three time zones (check out this blog post to learn more about how 18F cultivates a [“remote first” mindset](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)). 
+The [distributed team]({{ site.baseurl }}/lifecycle-of-a-project/staffing/#distributed-teamwork) at 18F makes it crucial for communication plans to be established for every project early on — you won’t run into your teammates at the water cooler when they work across three time zones (check out this blog post to learn more about how 18F cultivates a [“remote first” mindset](https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/)). 
 
 **Regular meetings**
 
