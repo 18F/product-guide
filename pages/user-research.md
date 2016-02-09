@@ -39,7 +39,7 @@ It can be difficult to find people to talk to the government about their experie
 
 ###User research in the [Build, Measure, Learn Cycle](https://pages.18f.gov/lean-product-design/)
 
-Set a regular cadence for gathering ongoing feedback, so that you can have it on everyone’s schedule, and so that you can work feedback into your plan on a regular basis. We suggest the entire team [observe the feedback at least every six weeks](https://slack-files.com/files-pri-safe/T025AQGAN-F0G19QMAQ/two_hours_every_six_weeks.pdf?c=1449613355-a09b75376fbc270c734249fd2f63e163677a5752), but depending on the specifics of your project, you might want this to happen more frequently, or at certain intervals that match up to significant milestones. You will know as you plan, when you expect to have released enough of some testable component of work so that it makes sense to get feedback. 
+Set a regular cadence for gathering ongoing feedback, so that you can have it on everyone’s schedule, and so that you can work feedback into your plan on a regular basis. We suggest the entire team observe the feedback at least every six weeks, but depending on the specifics of your project, you might want this to happen more frequently, or at certain intervals that match up to significant milestones. You will know as you plan, when you expect to have released enough of some testable component of work so that it makes sense to get feedback. 
 
 ###Getting research support
 
