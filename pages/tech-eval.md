@@ -3,7 +3,7 @@ permalink: /lifecycle-of-a-project/tech-eval/
 title: Technical evaluations
 parent: Lifecycle of a Project
 ---
-Tech evals are an opportunity for us to learn more about a project, evaluate the various attributes and scope of the work, and identify skills needed to successfully complete the project. If you’re a product lead that is assigned to a tech eval, you will be tapped by the Director of Product and the Business Development Team as they work to get the meeting scheduled, typically within a week or so of the project being discussed in intake. If you’re interested and invested in the project, you’ll likely remain on the project as a product lead if you’re initially assigned to it for the tech cval.
+Tech evals are an opportunity for us to learn more about a project, evaluate the various attributes and scope of the work, and identify skills needed to successfully complete the project. If you’re a product lead that is assigned to a tech eval, you will be tapped by the Director of Product and the Business Development Team as they work to get the meeting scheduled, typically within a week or so of the project being discussed in intake. If you’re interested and invested in the project, you’ll likely remain on the project as a product lead if you’re initially assigned to it for the tech eval.
 
 The Business Development Team asks that you bring our team’s skill set and capabilities with you to the tech eval. The Business Development Team will facilitate the process, but they’re not technical experts able to spot all the possible red flags. They will rely on you and the others assigned to the tech eval to ask the hard questions.
 
