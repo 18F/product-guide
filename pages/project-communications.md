@@ -19,7 +19,29 @@ We work with an empowered product owner, so a majority of the partner communicat
 
 ###Filling out a communications plan
 
-As part of planning out your project communication, you need to fill out an [#outreach](https://18f.slack.com/messages/outreach/) team [Comms Plan form]() so that they can gather basic information about your product launch (this plan is used to do things like draft social media campaigns or help answer press questions). The [#outreach](https://18f.slack.com/messages/outreach/) team will then pass on the plan to GSA’s Office of Communications and Marketing and the Office of Congressional and Interagency Affairs. You can see samples of these comm plans [here](https://drive.google.com/drive/u/0/folders/0B7hjBcSbIxAnfndJTWJDWjVaX2NjVnRfNGhGazRjYnNVVXhHcnJuNmJOdEtXQ09VTkNBU0E). Here’s [a good example of a standard comms plan](https://docs.google.com/document/d/1hqdYs2yR4iBhqFP-utEcdqQLdteJvgx5lP9L2ROzNhI/edit#heading=h.luo7pdd2ubbk) and [one for a major launch](https://docs.google.com/document/d/1zFk9rpV8LcdbaaS25K1msRzGnEoi7i0QNR2vrcENatQ/edit#heading=h.luo7pdd2ubbk).  
+As part of planning out your project communication, you need to fill out an [#outreach](https://18f.slack.com/messages/outreach/) team [Comms Plan form] (https://docs.google.com/document/d/1xc7H6m7lfesCN-phJGvGSDPmtoinB5sM9KAA8deMNTQ/edit) so that they can gather basic information about your product launch (this plan is used to do things like draft social media campaigns or help answer press questions). The [#outreach](https://18f.slack.com/messages/outreach/) team will then pass on the plan to GSA’s Office of Communications and Marketing and the Office of Congressional and Interagency Affairs. You can see samples of these comm plans [here](https://drive.google.com/drive/u/0/folders/0B7hjBcSbIxAnfndJTWJDWjVaX2NjVnRfNGhGazRjYnNVVXhHcnJuNmJOdEtXQ09VTkNBU0E). Here’s [a good example of a standard comms plan](https://docs.google.com/document/d/1hqdYs2yR4iBhqFP-utEcdqQLdteJvgx5lP9L2ROzNhI/edit#heading=h.luo7pdd2ubbk) and [one for a major launch](https://docs.google.com/document/d/1zFk9rpV8LcdbaaS25K1msRzGnEoi7i0QNR2vrcENatQ/edit#heading=h.luo7pdd2ubbk). 
+
+Additionally, you need to designate a project “storyteller” who will give ongoing updates to the outreach team. This person does not have to be the product lead, and will serve as a conduit between the product and outreach team. Notify the outreach team of the storyteller contact in [#outreach](https://18f.slack.com/messages/outreach/).
+
+Every product must have:
+
+- About.yml entry
+- A comms plan
+- Ideas for ~3 blog posts (from your team)
+
+The outreach team will work with the storyteller to ensure that the above items are accurate and up-to-date. The storyteller will also meet with the outreach team for 5-10 minutes each week during the blog huddle to update outreach on the following:
+
+- Upcoming milestones and events (that you’re going to or could present at)
+- Any impending risks to prepare for press and mitigate any issues
+- Progress on comms plan / blog posts
+- Any other ways the outreach team can help your project
+- Upcoming speaking events / conferences that the project/product is represented at
+- Any updates that need to be conveyed to the agency partner’s outreach team (and who those people might be.)
+- Updates for 18F newsletter or Dolores or #news
+- Updates for open source community who might be able to help with ‘help-wanted’ tags
+
+In the first meeting with the storyteller, the outreach team will go over the blog mission and how we talk about our products. Future (very, very short) meetings will follow the template listed above.
+
 
 ###How to communicate before a project has shipped
 
