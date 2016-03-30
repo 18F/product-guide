@@ -34,13 +34,13 @@ navigation:
 - text: Welcome to 18F
   url: welcome-to-18f/
   internal: true
-- text: Getting Started
+- text: Getting started
   url: getting-started/
   internal: true
 - text: What is a Product Lead?
   url: what-is-a-product-lead/
   internal: true
-- text: Lifecycle of a Project
+- text: Lifecycle of a project
   url: lifecycle-of-a-project/
   internal: true
   children:
@@ -77,7 +77,7 @@ navigation:
   - text: Infrastructure
     url: infrastructure/
     internal: true
-  - text: Project Communications
+  - text: Project communications
     url: project-communications/
     internal: true
   - text: After you ship
@@ -86,7 +86,7 @@ navigation:
   - text: Renewals & Handoffs
     url: renewals-and-handoffs/
     internal: true
-- text: Other Resources
+- text: Other resources
   url: other-resources/
   internal: true
 
