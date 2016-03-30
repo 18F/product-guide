@@ -23,7 +23,18 @@ Typically, the biggest component of the budget will be labor hours. This is best
 
 **Travel costs**
 
-Often your team will need to travel to the partner site during specific project milestones. For budgeting purposes, it’s good to estimate travel for a fully distributed (remote to DC) core development team. Some important activities which may require travel include: design sprints, UX research and interviews, presentations of findings to stakeholders, project launches, post-launch celebrations, and debriefing. There may be other ad-hoc travel required by specific team members depending on project specifics.
+Often your team will need to travel to the partner site for specific project milestones or activities. These might include design sprints, UX research and interviews, presentations of findings to stakeholders, project launches, post-launch celebrations, or debriefing. There may also be other ad-hoc travel required by various team members depending on project specifics. For example, many project teams find an in-person kick off to be very beneficial, as it allows for focused, face-to-face time for foundational exercises like backlog creation or story-mapping. 
+
+Be sure to address expectations for travel with the potential agency partner up front. This will not only allow you to budget more accurately, but will also give you an opportunity to gauge their reception to the 18F remote work policy. Identifying and addressing any reticence about this early on is vital for a strong working relationship.
+
+When budgeting for travel:
+- Use the [Travel Cost Estimator] (https://docs.google.com/spreadsheets/d/1uZyws7VZeb-sp4dSDLVR7C4HefmY25SquF8PGQXZ4Q0/edit#gid=0) as a guide
+- Estimate travel for a fully distributed team, i.e., assume everyone on the team is remote to DC and plan for the costs of the farthest flights
+- Use GSA's City Pairs Search (http://cpsearch.fas.gsa.gov/) when estimating flight costs
+- Include the travel budget as part of the labor hours lump sum; This allows you to use any surplus for feature development/other labor
+- In addition to basic transportation and lodging costs, don’t forget to include meals and incidentals (M&IE), local travel (+gas), and other productivity enhancements (like in-flight wi-fi) to your estimates
+- Consider all the milestones or activities travel might be required carefully and allow ample budget for all of them
+- If you need assistance, ask in #travel or #product
 
 **Infrastructure and DevOps time**
 
