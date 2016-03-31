@@ -11,6 +11,13 @@ The [distributed team]({{ site.baseurl }}/lifecycle-of-a-project/staffing/#distr
 
 Establish stand ups and retro schedules so that the update/feedback process is clear to everyone — but also be sure to establish the best/preferred methods for communication outside of those. Keep in mind that some of the partner agencies we work with won’t be able to access some of the tools we use at 18F (Google Docs or Hangouts, Slack, etc.) and make allowances for that. That being said, do encourage partners to get access to these tools as much as possible; collaborative platforms not only help increase efficiency, but also introduce partners into the 18F culture.
 
+Some tools you might use to facilitate regular meetings (like retros) include:
+
+- Google docs
+- [Stickies.io] (https://stickies.io/login)
+- [Trello] (https://trello.com/) (with voting powerup)
+- [Hackpad] (https://hackpad.com/), particulary this [Hackpad Retro Template] (https://hackpad.com/Retro-Template-bl9Suhmv6pd) (good for agencies that can't access Google Docs)
+
 **Partner communication and bug submission**
 
 We work with an empowered product owner, so a majority of the partner communication will (should) be with them, but stakeholders will likely be involved as well. Because of this, be sure to outline the process for bug submission (Trello? Waffle? Directly on a board vs other submission process?) and issue prioritization (Will this be done in sprint planning? Who has input?), as well as an escalation path for critical issues. As for frequency of communication, be proactive in general and start out high touch, then adjust to the needs of your team/partner as the project continues. 
