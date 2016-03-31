@@ -16,7 +16,8 @@ Some tools you might use to facilitate regular meetings (like retros) include:
 - Google docs
 - [Stickies.io] (https://stickies.io/login)
 - [Trello] (https://trello.com/) (with voting powerup)
-- [Hackpad] (https://hackpad.com/), particulary this [Hackpad Retro Template] (https://hackpad.com/Retro-Template-bl9Suhmv6pd) (good for agencies that can't access Google Docs)
+- [Hackpad] (https://hackpad.com/), particularly this [Hackpad Retro Template] (https://hackpad.com/Retro-Template-bl9Suhmv6pd) (good for agencies that can't access Google Docs)
+- [Mural.ly] (https://mural.ly/), particularly this [Mural.ly Retro Template] (http://mur.al/YAN5oyrb)
 
 **Partner communication and bug submission**
 
