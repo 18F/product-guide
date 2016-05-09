@@ -5,11 +5,11 @@ parent: Lifecycle of a Project
 ---
 ###Early planning and discovery
 
-As articulated in our [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/), we start every new engagement by taking a [fresh look at the problem](https://pages.18f.gov/partnership-playbook/3-problem-first/). We do this as a joint team with the client over the course of two to six weeks depending on the scope of the engagement. During this phase, which we call “Discovery”, the core product team interviews users and agency stakeholders to validate and more deeply understand the problem, desired goals and outcomes, and the organization’s priorities. This discovery phase is facilitated by a UX designer or researcher (who should be assigned to your team during the [intake staffing process]({{ site.baseurl }}/lifecycle-of-a-project/staffing/) and should include observation and participation by the entire team, including you, designers, developers, and the product owner on the partner side. 
+As articulated in our [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/), we start every new engagement by taking a [fresh look at the problem](https://pages.18f.gov/partnership-playbook/3-problem-first/). We do this as a joint team with the client over the course of two to six weeks depending on the scope of the engagement. During this phase, which we call “Discovery”, the core product team interviews users and agency stakeholders to validate and more deeply understand the problem, desired goals and outcomes, and the organization’s priorities. This discovery phase is facilitated by a UX designer or researcher (who should be assigned to your team during the [intake staffing process]({{ site.baseurl }}/lifecycle-of-a-project/staffing/) and should include observation and participation by the entire team, including you, designers, developers, and the product owner on the partner side.
 
-If a partner has already conducted some research before engaging with 18F, you’ll want to gather any raw and synthesized research materials they can provide. More often the partner agency will not have conducted user research, so that will be one of the first things you’ll need to do. Either way, we conduct a discovery phase so we can be sure that we thoroughly understand the problem as well as validate any initial research or assumptions our partner may have. 
+If a partner has already conducted some research before engaging with 18F, you’ll want to gather any raw and synthesized research materials they can provide. More often the partner agency will not have conducted user research, so that will be one of the first things you’ll need to do. Either way, we conduct a discovery phase so we can be sure that we thoroughly understand the problem as well as validate any initial research or assumptions our partner may have.
 
-The partnership playbook, intake process, and IAA conversations should make the discovery phase clear to our partners. However, you and the UX designer or researcher will likely need to advocate for this phase (and solicit users to talk to) as early as possible to make sure it gets carried out. Some of our partners may come to the table with their assumptions fairly set, but it’s important to advocate for a thorough round of discovery. 
+The partnership playbook, intake process, and IAA conversations should make the discovery phase clear to our partners. However, you and the UX designer or researcher will likely need to advocate for this phase (and solicit users to talk to) as early as possible to make sure it gets carried out. Some of our partners may come to the table with their assumptions fairly set, but it’s important to advocate for a thorough round of discovery.
 
 Additionally, while the partner’s problems and goals will be broadly and roughly defined through the intake and IAA process, the discovery phase should still be used to validate them, reveal other goals or problems that may need to be pursued, and narrow in on the top priorities.
 
@@ -17,7 +17,7 @@ Additionally, while the partner’s problems and goals will be broadly and rough
 
 The discovery research phase will usually involve identifying and recruiting users to speak to. This is facilitated by a UX designer or researcher, but we can and should rely heavily on our partner to connect us to potential users, as we make clear in our [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/). Other [information-gathering exercises](https://methods.18f.gov/discover/) may also be used to study our partner’s problem space, and learn more deeply about user behavior and motivations. This work can help the team focus in on the highest priority users and problems and come up with potential solutions that can then be broken down into user stories.
 
-There are a few ways to leverage this research to come up with some general hypotheses and user stories, or epics. Creating a [problem statement](https://pages.18f.gov/lean-product-design/2-problem-statement/) is a great way to frame (or reframe) the problem, and can help kick off the process of mapping problems to hypotheses, and the metrics you will use to test them. Clearly [articulating the goals and outcomes of your project and mapping them to a target audience](https://pages.18f.gov/agile/1-goal.html) can also help you create milestones you can use to plan your roadmap. 
+There are a few ways to leverage this research to come up with some general hypotheses and user stories, or epics. Creating a [problem statement](https://pages.18f.gov/lean-product-design/2-problem-statement/) is a great way to frame (or reframe) the problem, and can help kick off the process of mapping problems to hypotheses, and the metrics you will use to test them. Clearly [articulating the goals and outcomes of your project and mapping them to a target audience](https://pages.18f.gov/agile/1-goal.html) can also help you create milestones you can use to plan your roadmap.
 
 Depending on the project, there are a variety of other potential deliverables or artifacts that may come out of the discovery phase (as well as later phases). Some examples include:
 
@@ -27,7 +27,7 @@ Depending on the project, there are a variety of other potential deliverables or
 -   Research plan [[example](https://docs.google.com/document/d/1vAc5k2yubu2MN2rFc3liiOm5F0D-fo3AkPm0YU-u8l8/edit)] [[example](https://docs.google.com/a/gsa.gov/document/d/19Dw2VnLgW9CKK6z8WoGhZ8qzXyiV9Wp96doDtg1I2qE/edit?usp=sharing)]
 -   Prototypes
 -   Ecosystem map [[external example](http://www.uxbooth.com/articles/designing-digital-strategies-part-1-cartography/)]
--   Personas 
+-   Personas
 -   Design and/or experience principles [[18F Guide](https://pages.18f.gov/design-principles-guide/)]
 -   Opportunity map
 
@@ -39,12 +39,8 @@ It can be difficult to find people to talk to the government about their experie
 
 ###User research in the [Build, Measure, Learn Cycle](https://pages.18f.gov/lean-product-design/)
 
-Set a regular cadence for gathering ongoing feedback, so that you can have it on everyone’s schedule, and so that you can work feedback into your plan on a regular basis. We suggest the entire team observe the feedback at least every six weeks, but depending on the specifics of your project, you might want this to happen more frequently, or at certain intervals that match up to significant milestones. You will know as you plan, when you expect to have released enough of some testable component of work so that it makes sense to get feedback. 
+Set a regular cadence for gathering ongoing feedback, before and after launch, so that you can have it on everyone’s schedule, and so that you can work feedback into your plan on a regular basis. We suggest the entire team observe the feedback at least every six weeks, but depending on the specifics of your project, you might want this to happen more frequently, or at certain intervals that match up to significant milestones. You will know as you plan, when you expect to have released enough of some testable component of work so that it makes sense to get feedback.
 
 ###Getting research support
 
 If your project has gone through intake, there should be design staff assigned to your team who will help define the work that needs to be done, conduct the research, and present the results. If design staff are not assigned to your team immediately, follow up with the intake team in [#project-intake](https://18f.slack.com/archives/project-intake). Remember that projects that require an IAA will only be staffed after the IAA is signed. They will usually need guidance from product in terms of the scope of the research and the overall business goals, but they’re the experts in user research, and their expertise should be leveraged as much as possible. For general research assistance, you can always drop a comment describing your need in the [#research](https://18f.slack.com/messages/research/) guild. Additional design staff must be approved by the design director prior to beginning work.
-
-
-
-

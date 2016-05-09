@@ -21,9 +21,11 @@ Below are some of the most important things to estimate at the start of the proj
 
 Typically, the biggest component of the budget will be labor hours. This is best estimated by asking subject matter experts to help estimate hours. For instance, asking a frontend engineer in [#eng-facilitators](https://18f.slack.com/messages/eng-facilitators/) to help estimate the time required for the known project interface could be helpful. This typically occurs during the [tech eval phase]({{ site.baseurl }}/lifecycle-of-a-project/tech-eval/) of the intake process, or alternatively you could ask group leads for estimates. Be sure to ping each resource you’ll potentially need on the project. Consider backend, frontend engineering, design, content, and product management staff during your estimation, all of whom have an appropriate slack channel for this kind of discussion.
 
+Will your team need to work more than 40 hours in a week, e.g. to support a launch? You should start the [comp time approvals process](https://handbook.18f.gov/benefits/#overtime-and-comp-time-policy) before that happens. We take this seriously.
+
 **Travel costs**
 
-Often your team will need to travel to the partner site for specific project milestones or activities. These might include design sprints, UX research and interviews, presentations of findings to stakeholders, project launches, post-launch celebrations, or debriefing. There may also be other ad-hoc travel required by various team members depending on project specifics. For example, many project teams find an in-person kick off to be very beneficial, as it allows for focused, face-to-face time for foundational exercises like backlog creation or story-mapping. 
+Often your team will need to travel to the partner site for specific project milestones or activities. These might include design sprints, UX research and interviews, presentations of findings to stakeholders, project launches, post-launch celebrations, or debriefing. There may also be other ad-hoc travel required by various team members depending on project specifics. For example, many project teams find an in-person kick off to be very beneficial, as it allows for focused, face-to-face time for foundational exercises like backlog creation or story-mapping.
 
 Be sure to address expectations for travel with the potential agency partner up front. This will not only allow you to budget more accurately, but will also give you an opportunity to gauge their reception to the 18F remote work policy. Identifying and addressing any reticence about this early on is vital for a strong working relationship.
 
@@ -43,7 +45,7 @@ This is an important but often overlooked component of the budget. Infrastructur
 
 **Miscellaneous**
 
-Does the project require any other specialized resources that aren’t covered by 18F? Printing needs? Legal counsel? 
+Does the project require any other specialized resources that aren’t covered by 18F? Printing needs? Legal counsel?
 
 ###How to estimate
 **Tech eval**
@@ -69,7 +71,7 @@ If you’re lost, there are many resources available on Slack to help. [#product
 You should also know that 18F does have rate changes, which requires additional sensitivity and partner management. You can always ask about impending rate changes in [#finance](https://18f.slack.com/messages/finance/). These can often throw a serious wrench in the budget building process, as can billing inaccuracies and unexpected infrastructure costs. Account for everything that you can, but you should plan for and expect to have missed some things. If you can cushion your budget for this, it will be to your benefit and will help you keep your project within its budget.
 
 ###More resources
-[How We Bill](https://docs.google.com/document/d/1Vm_gvwfxJVTLtM0-al62-o6dBySjQKI0zQkSvGfii6w/edit) 
+[How We Bill](https://docs.google.com/document/d/1Vm_gvwfxJVTLtM0-al62-o6dBySjQKI0zQkSvGfii6w/edit)
 
 [How much do you charge per hour?](https://docs.google.com/document/d/1Ou6pKGReuuE0HhujURRnhiosgfDonKY3sSiDlM_jnqo/edit)
 
