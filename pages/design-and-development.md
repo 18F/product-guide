@@ -17,12 +17,6 @@ Accessibility standards help our audience make sure they can use our digital pro
 ###Design Method Cards
 18F’s design team has prepared a pool of tools to help work with clients on agile product development called the [Design Method Cards](https://methods.18f.gov/). These tools offer ways for teams to collaborate with stakeholders on [Discovering](https://methods.18f.gov/discover/), [Deciding](https://methods.18f.gov/decide/), [Making](https://methods.18f.gov/make/), and [Validating](https://methods.18f.gov/validate/) designs, products, and research. They’re produced with agile product development in government in mind, so there are lots of great tips and information about the Paperwork Reduction Act, privacy, and other challenges.
 
-The tools are available as physical cards (ask the Director of Design if there’s a deck available) or digitally here:
-
--   [View or save all the cards (PDF)](https://methods.18f.gov/assets/downloads/18F-Method-Cards-beta-Preview.pdf)
--   [Print the cards, at home or professionally — complete with instructions (ZIP)](https://methods.18f.gov/assets/downloads/18F-Method-Cards-beta_Print.zip)
--   [Customize the Adobe InDesign template to fit your needs (INDD)](https://methods.18f.gov/assets/downloads/18F-Method-Cards-beta-Template.zip)
-
 If you have questions or suggestions, head over to [#design-methods](https://18f.slack.com/messages/design-methods/).
 
 ###Open source
