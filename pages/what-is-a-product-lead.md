@@ -4,7 +4,7 @@ title: What is a Product Lead?
 ---
 Product leads can wear a lot of different hats, but more than anything, a product lead is truly responsible for making sure that every role is being played by somebody on the team in order to move the project forward. A product lead can take on any one of the following roles, but a team member who’s interested in learning more about being a product lead can also scrub in on one of these roles:
 
-**Account liaison.** Maintain the relationship, budget, and project status communications with the agency partner. You’ll be working with 18F Finance, 18F Infrastructure, and the partner agency on maintaining the project budget. Find out more in the [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/) as well as our guide on [How 18F Manages Client Accounts](https://docs.google.com/document/d/1PIgWhoAifBmx6K-ihh8h9HRPQz1Mlj0TKHWv-UNWE-4/edit) (this is the official “control document” describing how 18F conducts business). Continuously think about: 
+**Account liaison.** Maintain the relationship, budget, and project status communications with the agency partner. You’ll be working with 18F Finance, 18F Infrastructure, and the partner agency on maintaining the project budget. Find out more in the [18F Partnership Playbook](https://pages.18f.gov/partnership-playbook/) as well as our guide on [How 18F Manages Client Accounts](https://handbook.18f.gov/client-accounts/) (this is the official “control document” describing how 18F conducts business). Continuously think about: 
 
 -   Are we setting (and resetting) expectations well for the people paying for this product? 
 -   Do they understand the value of our process (not just what we’re delivering)? 
