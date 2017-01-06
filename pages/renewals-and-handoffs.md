@@ -6,15 +6,15 @@ parent: Lifecycle of a Project
 All good projects come to an end, and we want our clients to be empowered to continue working after we’ve left an engagement. This part of the process varies quite a bit by project, but we consistently want to be thinking about the following objectives when handing off a project: 
 
 -   **Maintain open source** — the receiving infrastructure team may expect to take the code out of GitHub or make other modifications to work in their systems that bring into question the openness and maintainability of the project in the future. This should be addressed with the client early in the project planning process as they get to know how 18F works.
--   **Maintain easy access for us and new team** — we want to be able to smoothly transition pieces of the project over to the new transition team and therefore, it’s incredibly important that both our team and the new team have access to all relevant systems and information in order to ensure this.
+-   **Maintain easy access for us and new team** — we want to be able to smoothly transition pieces of the project over to the new transition team. To ensure this, it’s incredibly important that both our team and the new team have access to all relevant systems and information.
 -   **Maintain modern infrastructure** — ideally the partner agency has a development team to hand the project off to. That team can continue to run the software on 18F infrastructure, using PaaS or IaaS resold through 18F, Federalist, or something else. There will be an explicit portion of the old and new IAA dedicated to this, but make sure the new team is aware of retaining the infrastructure for the project. If the agency is not remaining on 18F infrastructure, it’s important that a plan be created for how to transition away early on in the handoff process.
 -   **Bring lessons learned to the rest of 18F** — you’re going to learn a lot about a particular engagement as you start to wind a project down. Be mindful about how you can document and capture these lessons learned so that the rest of 18F can learn from your experiences. Consider taking these lessons learned to our working groups and guilds for them to socialize amongst their teams. 
 
-Given the nature of our work, you should be thinking about the hand-off  early on in the development process. The eventual handoff may deeply affect many technical and design choices. 
+Given the nature of our work, you should be thinking about the hand-off early in the development process. The eventual handoff may deeply affect many technical and design choices. 
 
-You’ll want to get a deep understanding of any vendor or agency capabilities and systems as well as how their internal teams work (for example GSA IT with a vendor team) in terms of mindset, ability, and systems. The more you can glean early on in the process with regards to the partner’s capabilities, the better off the transition process will be when the time comes.
+You’ll want to get a deep understanding of any vendor or agency capabilities and systems as well as how their internal teams work (for example, GSA IT with a vendor team) in terms of mindset, ability, and systems. The more you can glean early on in the process with regards to the partner’s capabilities, the better off the transition process will be when the time comes.
 
-Consider bringing the transition team into our way of working early on in your project so they can familiarize themselves with the way we work. Perhaps include them in a sprint or two while we’re still developing so they can observe benefits and possibilities. Client education should absolutely include the transition team along the way.
+Consider bringing the transition team into our way of working early on in your project so they can familiarize themselves with the way we work. Perhaps include them in a sprint or two while we’re still developing so they can observe benefits and possibilities. Client education should absolutely include the transition team all along the way.
 
 ###Starting the process
 
@@ -22,7 +22,7 @@ The IAA team will send a [90-day countdown email](https://docs.google.com/docume
 
 Many of our IAAs are set to end at the end of a fiscal year due to the way projects are funded even if the project itself is unlikely to end. This is why it’s incredibly important to have some foresight to budget for extra funding in order to cover any components of the end of a fiscal year transition, including AWS usage and cloud.gov estimates.
 
-If the scope of the work for the project is changing (for example delivery and infrastructure to infrastructure only) at the change of the fiscal year, a new IAA will need to be created to outline that scope. If the scope is not changing, a renewal is much simpler. You can work with the IAA team on any and all of these cases.
+If the scope of the work for the project is changing (for example, delivery and infrastructure to infrastructure only) at the change of the fiscal year, a new IAA will need to be created to outline that scope. If the scope is not changing, a renewal is much simpler. You can work with the IAA team on any and all of these cases.
 
 If the project will have a delivery handoff instead of a contract renewal, it will likely fall into one of these categories:
 
