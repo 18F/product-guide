@@ -10,7 +10,7 @@ Product leads can wear a lot of different hats, but more than anything, a produc
 -   Do they understand the value of our process (not just what we’re delivering)? 
 -   Are they learning?
 
-**Project manager.** Maintain the schedule and estimate resource and budget needs. There are no standard project management tools for product managers; you can use software on [the approved list](https://hub.18f.gov/private/tools/), spreadsheets, etc. [#teamops](https://18f.slack.com/messages/teamops) also has a number of resources available to you. It’s really about finding what works for you and the team. Continuously think about:
+**Project manager.** Maintain the schedule and estimate resource and budget needs. There are no standard project management tools for product managers; you can use software on [the approved list](https://ea.gsa.gov/), spreadsheets, etc. [#teamops](https://gsa-tts.slack.com/messages/teamops) also has a number of resources available to you. It’s really about finding what works for you and the team. Continuously think about:
 
 -   Do we have enough of the right kind of skills on the team? Coordinate with development and design directors on team staffing.
 -   Are project risks being tracked and mitigated?
