@@ -44,12 +44,6 @@ navigation:
   url: lifecycle-of-a-project/
   internal: true
   children:
-  - text: Intake
-    url: intake/
-    internal: true
-  - text: Technical evaluations
-    url: tech-eval/
-    internal: true
   - text: Your team (a.k.a. Staffing)
     url: staffing/
     internal: true
