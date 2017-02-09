@@ -5,18 +5,12 @@ parent: Lifecycle of a Project
 ---
 
 As 18F grows and takes on more projects, it can sometimes be challenging to obtain full-time staff for individual projects. Know that 18F will not start work until we can identify a dedicated team for that project. 
-You are not on your own when it comes to finding the staff and skills you may need. First and foremost, when you’re assigned as a product lead to a particular project, you’ll also be assigned a team for the initial scope of work by the division leads. This will happen after the IAA has been signed. This will be communicated to you by Team Ops. If you have questions, reach out in [#teamops](https://18f.slack.com/archives/teamops). If/when that scope changes or you’ve noticed a shift in your staffing needs, make sure the delivery directors are aware of these changes. It’s important to note that staffing is currently an area that we're iterating on. 
+You are not on your own when it comes to finding the staff and skills you may need. First and foremost, when you’re assigned as a product lead to a particular project, you’ll also be assigned a team for the initial scope of work by the division leads. This will happen after the IAA has been signed. This will be communicated to you by Team Ops. If you have questions, reach out in [#teamops](https://gsa-tts.slack.com/archives/teamops). If/when that scope changes or you’ve noticed a shift in your staffing needs, make sure the delivery directors are aware of these changes. It’s important to note that staffing is currently an area that we're iterating on. 
 
 **TL;DR - You will be assigned a team by Team Ops. If other needs arise, follow these processes instead of soliciting work from individual engineers and designers.** This ensures that our project work remains organized and individuals don’t take on more work than they can handle.
 
-###Staffing developers
-Feel free to post an [opportunity](https://openopps.digitalgov.gov/), make sure to tag it with “18F”, and promote it in appropriate Slack channels. If other federal employees are interested in the project, you’re welcome to accept them as helpers or you can prefer a dedicated 18F staffer, but you do need to engage or reject people based on actual qualifications.
-
-###Staffing designers
-The design director will assign you specific people through the intake staffing process or let you know when they will be available.
-
 ###Staffing user research
-If your assigned team doesn’t include a dedicated researcher, make sure to drop into [#research](https://18f.slack.com/messages/research/) for guidance. Folks from the Research Guild will be happy to review your research plan and provide feedback. The Research Guild promotes best practices at 18F and in the rest of the government.
+If your assigned team doesn’t include a dedicated researcher, make sure to drop into [#research](https://gsa-tts.slack.com/messages/research/) for guidance. Folks from the Research Guild will be happy to review your research plan and provide feedback. The Research Guild promotes best practices at 18F and in the rest of the government.
 
 ###Onboarding new team members
 As a product lead, it’s important that you invest some time from the very start in getting your new team members acclimated to your team and processes. You want the team to feel empowered and comfortable with agile as well as with one another. Take the opportunity during your first few meetings and sprint plannings to make sure everybody is on the same page. Do not expect everything to make sense to everybody from the very start.
