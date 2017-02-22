@@ -3,7 +3,7 @@ permalink: /welcome-to-18f/
 title: Welcome to 18F
 ---
 
-Beginning your tenure at 18F is a lot like learning a language via immersion. During your first month, you’re going to do a lot of quizzical pointing and relying on the kindness of strangers. Rest assured that your team understands that your first month will be filled with form-filling, onboarding, and generally getting settled. Spend your first month thinking about and doing the following things:
+Beginning your tenure at 18F is a lot like learning a language via immersion. Rest assured that your team understands that your first month will be filled with questions, form-filling, onboarding, and generally getting settled. Spend your first month thinking about and doing the following things:
 
 -   Read [this checklist](https://github.com/18F/onboarding-documents/blob/master/Checklists/team-based-checklists/product-new-hire-checklist.md) for new product team members, and take the time to complete each item. If you don’t understand it, don’t worry, just ask somebody for help in the [#product](https://gsa-tts.slack.com/messages/product) on slack.
 -   Say yes to all the video meetings, workgroups, and guilds to which you’re invited. You can reject them later, but for right now, you want all the exposure you can get. 
