@@ -12,7 +12,7 @@ Some other ways to think about the role include that they:
 - lead, or orchestrate, the larger team to deliver the right thing to the right customers
 - are the "CEO" of the product, as the technical lead is the "CTO" of the product
 
-Product managers are NOT the following roles, yet we understand which ones are needed to deliver the right product. We are responsible for filling those roles even if we don’t have all the actual role-players on our team. That means that PMs sometimes wear one or more of the aforementioned hats in order to fill a need on the team (sometimes your team really needs coffee).
+Product managers are NOT the following roles, yet we understand which ones are needed to deliver the right product. We are responsible for filling those roles even if we don’t have all the actual role-players on our team. That means that PMs sometimes wear one or more of the following hats in order to fill a need on the team (sometimes your team really needs coffee). **At the end of the day, PMs do whatever it takes to make sure the right product goes out the door.**
 - Project manager
 - Scrum master
 - Agile coach
@@ -34,8 +34,6 @@ Product managers are NOT the following roles, yet we understand which ones are n
 - Coffee getter
 - Your parent
 
-**Importantly, at the end of the day, PMs do whatever it takes to make sure the right product goes out the door.**
-
 You might have a PM-shaped hole on your team if...
 
 - **Problem:** Your meetings aren’t productive.<br>**What a PM would do to help:** Organize the team and the work and run meetings. Model productive meetings – clear goals, organization, and follow-throughs.
@@ -54,8 +52,7 @@ You might have a PM-shaped hole on your team if...
 - **Problem:** You’re project is burning hot!<br>**What a PM would do to help:** Makes sure that the the work is managed to a budget
 - **Problem:** You’re feeling unmotivated or not passionate about the product<br>**What a PM would do to help:** Evangelizes internally and externally to create excitement and motivation to deliver. Empowers the team.
 
-
-Summary
+## Summary
 
 The role of a Product Manager is broad, not deep. In practice, product managers come from different backgrounds/specialties (design, engineering, marketing, sales, business development) and may do different things day-to-day at different companies, depending on their level of expertise in an area, or their level of support in other areas. Product Managers are always connected to the business, will always own the vision and will be primarily concerned with leading teams to bring the vision together with strategy and delivery. 
 
