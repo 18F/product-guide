@@ -55,4 +55,3 @@ You might have a PM-shaped hole on your team if...
 ## Summary
 
 The role of a Product Manager is broad, not deep. In practice, product managers come from different backgrounds/specialties (design, engineering, marketing, sales, business development) and may do different things day-to-day at different companies, depending on their level of expertise in an area, or their level of support in other areas. Product Managers are always connected to the business, will always own the vision and will be primarily concerned with leading teams to bring the vision together with strategy and delivery. 
-
