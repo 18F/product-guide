@@ -31,12 +31,6 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Welcome to 18F
-  url: welcome-to-18f/
-  internal: true
-- text: Getting started
-  url: getting-started/
-  internal: true
 - text: What is a Product Lead?
   url: what-is-a-product-lead/
   internal: true
