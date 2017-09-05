@@ -14,17 +14,38 @@ Some other ways to think about the role include that we:
 
 We are NOT the following roles, yet we understand which ones are needed to deliver the right product. We are responsible for filling those roles even if we don’t have all the actual role-players on our team. That means that PMs sometimes wear one or more of the following hats in order to fill a need on the team (sometimes your team really needs coffee). **At the end of the day, PMs do whatever it takes to make sure the right product goes out the door.**
 
-| | |
-| ----- | ----- |
-| Project manager | Marketing maven |
-| Scrum master | PR person |
-| Agile coach | Budget wrangler |
-| Designer | Engagement manager |
-| Researcher | Order taker |
-| Engineer | Secretary |
-| Sales person | Psychologist |
-| Business development person | Personal assistant |
-| Data scientist | Coffee getter |
+<table>
+<tr>
+<td>Project manager</td>
+<td>Marketing maven</td>
+<td>Scrum master</td>
+</tr>
+<tr>
+<td>PR person</td>
+<td>Agile coach</td>
+<td>Budget wrangler</td>
+</tr>
+<tr>
+<td>Designer</td>
+<td>Engagement manager</td>
+<td>Researcher</td>
+</tr>
+<tr>
+<td>Order taker</td>
+<td>Engineer</td>
+<td>Secretary</td>
+</tr>
+<tr>
+<td>Sales person</td>
+<td>Psychologist</td>
+<td>Business developer</td>
+</tr>
+<tr>
+<td>Personal assistant</td>
+<td>Data scientist</td>
+<td>Coffee getter</td>
+</tr>
+</table>
 
 ### You might have a PM-shaped hole on your team if...
 
