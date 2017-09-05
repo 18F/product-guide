@@ -31,7 +31,7 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: Product Managment at 18F?
+- text: Product Managment at 18F
   url: product-management-at-18f/
   internal: true
 - text: Lifecycle of a project
