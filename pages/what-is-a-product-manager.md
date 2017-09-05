@@ -1,6 +1,6 @@
 ---
-permalink: /what-is-a-product-manager/
-title: What is a Product Manager?
+permalink: /what-is-product-management-at-18f/
+title: What is a Product Managment at 18F?
 ---
 
 A product manager (PM) is responsible for the strategy, roadmap, and feature definition of a product or product line. The role involves working with cross-functional teams and may include marketing, forecasting, and profit and loss responsibilities.
