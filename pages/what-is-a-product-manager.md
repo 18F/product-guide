@@ -3,7 +3,7 @@ permalink: /what-is-a-product-manager/
 title: What is a Product Manager?
 ---
 
-The mostly uncontroversial definition: a product manager (PM) is responsible for the strategy, roadmap, and feature definition of a product or product line. The role involves working with cross-functional teams and may include marketing, forecasting, and profit and loss responsibilities.
+A product manager (PM) is responsible for the strategy, roadmap, and feature definition of a product or product line. The role involves working with cross-functional teams and may include marketing, forecasting, and profit and loss responsibilities.
 
 Some other ways to think about the role include that PMs:
 
