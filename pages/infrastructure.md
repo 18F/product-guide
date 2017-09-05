@@ -3,7 +3,7 @@ permalink: /lifecycle-of-a-project/infrastructure/
 title: Infrastructure
 parent: Lifecycle of a Project
 ---
-###Product ownership responsibilities
+### Product ownership responsibilities
 
 Don’t underestimate the potential fallout of delivering a fragile service. There will be pressure to tackle other features, but you should focus on ensuring the high visibility and priority of infrastructure concerns. This way you can avoid scrambling to get your product’s infrastructure in shape when the launch deadline passes, the money runs out, etc. Consider having a separate backlog of just infrastructure stories, and throttling one into the top of the backlog sprint by sprint so they’re not ignored in favor of stakeholder- or user-driven stories that would otherwise drown them.
 
@@ -11,7 +11,7 @@ You’re likely to have stakeholders who are not be able to articulate or unders
 
 Analytics should also be on your mind early, both to help understand how users use your product as it develops, and how the speed and stability of your product affects their experience. See below for pointers on getting started with [DAP](http://www.digitalgov.gov/services/dap/) (for usage analytics) and [New Relic](http://newrelic.com/) (for application speed and subjective performance).
 
-###Making infrastructure choices
+### Making infrastructure choices
 
 Review the [Infrastructure page in the Before You Ship guide](https://pages.18f.gov/before-you-ship/infrastructure/) for guidance on how to choose where to deploy your product. Depending on your evaluation:
 
@@ -20,7 +20,7 @@ Review the [Infrastructure page in the Before You Ship guide](https://pages.18f.
 
 The cloud.gov team can offer [consulting](https://docs.cloud.gov/intro/terminology/pricing-terminology/#consulting:1e925b399ff4600538be4d8c59c010ca) to help deliver your product. If you choose to do this, be aware that cloud.gov team members will bill time to your project for effort that’s specific to your product’s circumstances. You may want to plan ahead with a small buffer to absorb this cost if you think your team will need it.
 
-###Adopting DevOps practices
+### Adopting DevOps practices
 
 If there’s a third pillar behind user-centered design and agile practices at 18F, it might be DevOps. “DevOps” refers to combining responsibility for a product’s operations into the activities of the development team. Applying DevOps early in development has a positive effect on minimizing risk and adopting good long-term architectural decisions.
 
@@ -36,20 +36,20 @@ What will you do if something breaks? Have you talked to your client about their
 >
 > Problems should be reported by opening an issue on [GitHub](https://github.com/18F/openfec). If you would like to escalate the issue, you can reach out to your 18F Product Manager by [texting/calling (555)555-5555/slack DMing/emailing/etc.]. We may not address issues outside of business hours until the next day.
 
-###Planning for transition
+### Planning for transition
 
 Infrastructure work surrounding your product should result in repeatable deployment tooling that is captured as part of the product’s code. This can take the form of:
 
 -   Deployment instructions in the repository
 -   Setup scripts (a la '[go](https://github.com/18F/go_script)')
 -   [Cloud Foundry manifests](https://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html)
--   [Continuous integration](https://pages.18f.gov/dev-environment/continuous-integration/) / [continuous deployment](https://docs.cloud.gov/apps/continuous-deployment/)
+-   Continuous integration / [continuous deployment](https://docs.cloud.gov/apps/continuous-deployment/)
 
 Treat this operations work as a development task rather than one-off efforts. This maximizes your team’s ability to retrace steps and share ownership as the makeup of your team inevitably changes over time.
 
 By using cloud.gov and capturing the full deployment process in your project’s repositories, you will also minimize the need for special access to AWS for those developing and maintaining your product. This will ease the work of future teams which may pick up your product after a big pause, and also makes it easier to transition ownership to your stakeholders when 18F’s work on the product ends.
 
-###Related groups and channels
+### Related groups and channels
 
 -   **cloud.gov** — If you have questions about the use of cloud.gov for your project’s infrastructure, ask in [#cloud-gov-business](https://gsa-tts.slack.com/messages/cloud-gov-business/). If your team needs help with using cloud.gov to implement one of your infrastructure stories, suggest they ask in [#cloud-gov-support](https://gsa-tts.slack.com/messages/cloud-gov-support).
 -   **Analytics** — The Analytics Guild’s mission is to integrate website analytics into all 18F projects. See our [Analytics Standards](https://github.com/18F/analytics-standards) for more information.

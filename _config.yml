@@ -31,8 +31,8 @@ navigation:
 - text: Introduction
   url: index.html
   internal: true
-- text: What is a Product Lead?
-  url: what-is-a-product-lead/
+- text: What is a Product Manager?
+  url: what-is-a-product-manager/
   internal: true
 - text: Lifecycle of a project
   url: lifecycle-of-a-project/

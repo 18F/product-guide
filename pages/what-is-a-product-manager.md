@@ -1,25 +1,25 @@
 ---
-permalink: /what-is-a-product-lead/
-title: What is a Product Lead?
+permalink: /what-is-a-product-manager/
+title: What is a Product Manager?
 ---
 
-The mostly uncontroversial definition: a product manager is responsible for the strategy, roadmap, and feature definition of a product or product line. The role involves working with cross-functional teams and may include marketing, forecasting, and profit and loss responsibilities.
+A product manager (PM) is responsible for the strategy, roadmap, and feature definition of a product or product line. The role involves working with cross-functional teams and may include marketing, forecasting, and profit and loss responsibilities.
 
-Some other ways to think about the role include that they:
+Some other ways to think about the role include that PMs:
 
 - make sure that there is a strategy, and they also make sure that the strategy actually happens
 - decide what the work is and what the work isn’t
 - lead, or orchestrate, the larger team to deliver the right thing to the right customers
 - are the "CEO" of the product, as the technical lead is the "CTO" of the product
 
-Product managers are NOT the following roles, yet we understand which ones are needed to deliver the right product. We are responsible for filling those roles even if we don’t have all the actual role-players on our team. That means that PMs sometimes wear one or more of the following hats in order to fill a need on the team (sometimes your team really needs coffee). **At the end of the day, PMs do whatever it takes to make sure the right product goes out the door.**
+PMs are NOT the following roles, yet we understand which ones are needed to deliver the right product. We are responsible for filling those roles even if we don’t have all the actual role-players on our team. That means that PMs sometimes wear one or more of the following hats in order to fill a need on the team (sometimes your team really needs coffee). **At the end of the day, PMs do whatever it takes to make sure the right product goes out the door.**
+
 - Project manager
 - Scrum master
 - Agile coach
 - Designer
 - Researcher
-- Developer
-- Strategist
+- Engineer
 - Sales person
 - Business development person 
 - Data scientist
@@ -54,4 +54,4 @@ You might have a PM-shaped hole on your team if...
 
 ## Summary
 
-The role of a Product Manager is broad, not deep. In practice, product managers come from different backgrounds/specialties (design, engineering, marketing, sales, business development) and may do different things day-to-day at different companies, depending on their level of expertise in an area, or their level of support in other areas. Product Managers are always connected to the business, will always own the vision and will be primarily concerned with leading teams to bring the vision together with strategy and delivery. 
+The role of a Product Manager is broad, not deep. In practice, product managers come from different backgrounds/specialties (design, engineering, marketing, sales, business development) and may do different things day-to-day at different companies, depending on their level of expertise in an area, or their level of support in other areas. Product Managers are always connected to the business, will always own the vision, and will be primarily concerned with leading teams to bring the vision together with strategy and delivery. 
