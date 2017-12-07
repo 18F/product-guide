@@ -68,9 +68,6 @@ navigation:
   - text: Project communications
     url: project-communications/
     internal: true
-  - text: After you ship
-    url: after-you-ship/
-    internal: true
   - text: Renewals & Handoffs
     url: renewals-and-handoffs/
     internal: true
