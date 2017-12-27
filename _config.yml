@@ -28,49 +28,53 @@ logoalt: 18F logo
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
+- text: Welcome
   url: index.html
   internal: true
 - text: What is a Product Manager?
   url: what-is-a-product-manager/
   internal: true
-- text: Lifecycle of a project
-  url: lifecycle-of-a-project/
+- text: We do Product Well
+  url: we-do-product-well/
   internal: true
   children:
-  - text: Your team (a.k.a. Staffing)
-    url: staffing/
+  - text: The Problem and Vision
+    url: the-problem-and-vision/
     internal: true
-  - text: IAAs & MOUs
-    url: iaas-and-mous/
+  - text: The Strategy and Roadmap
+    url: the-strategy-and-roadmap/
     internal: true
-  - text: Budgeting
-    url: budgeting/
+  - text: Leading Teams
+    url: leading-teams/
     internal: true
-  - text: Billing
-    url: billing/
+  - text: Communication
+    url: communication/
     internal: true
-  - text: Project start
-    url: project-start/
+  - text: Measurement and Iteration
+    url: measurement-and-iteration/
     internal: true
-  - text: Before You Ship & ATO 
-    url: before-you-ship/
+  - text: Testing and DevSecOps
+    url: testing-and-devsecops/
     internal: true
-  - text: User research
-    url: user-research/
+- text: Our Values
+  url: our-values/
+  internal: true
+  children:
+  - text: Working in the Open
+    url: working-in-the-open/
     internal: true
-  - text: Design and development
-    url: design-and-development/
+  - text: Agile/Iterative Development
+    url: agile-iterative-development/
     internal: true
-  - text: Infrastructure
-    url: infrastructure/
+  - text: User-centered Design
+    url: user-centered-design/
     internal: true
-  - text: Project communications
-    url: project-communications/
+  - text: Continuous Delivery
+    url: continuous-delivery/
     internal: true
-  - text: Renewals & Handoffs
-    url: renewals-and-handoffs/
-    internal: true
+- text: We Help our Partners do Product by Themselves
+  url: we-help-our- partners-do-product-by-themselves/
+  internal: true
 
 
 repos:
