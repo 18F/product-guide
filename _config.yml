@@ -1,4 +1,7 @@
 markdown: redcarpet
+redcarpet:
+    renderers: ["link_attributes"]
+
 name: 18F Product Guide
 exclude:
 - CONTRIBUTING.md
@@ -18,7 +21,7 @@ sass:
 
 # Author/Organization info to be displayed in the templates
 author:
-  name: 18F
+  name: 18F Product Chapter
   url: https://18f.gsa.gov
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
@@ -31,8 +34,8 @@ navigation:
 - text: Welcome
   url: index.html
   internal: true
-- text: What is Product Management?
-  url: what-is-product-management/
+- text: Product Management at 18F
+  url: product-management-at-18f/
   internal: true
 - text: We do Product Well
   url: we-do-product-well/
@@ -75,7 +78,6 @@ navigation:
 - text: We Help our Partners do Product by Themselves
   url: we-help-our-partners-do-product-by-themselves/
   internal: true
-
 
 repos:
 - name: Product Guide

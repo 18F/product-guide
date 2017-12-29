@@ -3,7 +3,7 @@ permalink: /our-values/working-in-the-open/
 title: Working in the Open
 parent: Our Values
 ---
-We work in the open to improve security, accountability, and sustainability of the project and code. Working in the open allows for more eyes on the code and helps generate more feedback and support from partners. Just like a blameless retrospective, this allows us to iteratively and constantly continue to get better. 
+We <a href="https://open-source-guide.18f.gov/" target="_blank">work in the open</a> to improve security, accountability, and sustainability of the project and code. Working in the open allows for more eyes on the code and helps generate more feedback and support from partners. Just like a blameless retrospective, this allows us to iteratively and constantly continue to get better. 
 
 We are transparent because we want to build trust and be more efficient. By being open about the work we do and releasing it publicly, we are able to build trust with our partners, the public, and our leaders because we’re communicating and sharing our resources every step of the way.
 
