@@ -6,18 +6,18 @@ parent: We Do Product Well
 ### Testing
 Establishing testing practices are key to enabling these needs. You will be working with your team to ensure that a testing strategy is in place covering the following:
 
-#### Functional testing
+##### Functional testing
 Whether it’s the first release or last release, our products need to be tested end to end.  Unit test coverage cannot replace functional testing.  
 
 There are many ways to perform end to end functional testing. It falls on the product manager to ensure these are done.
 
-#### Nonfunctional testing
+##### Nonfunctional testing
 Validating non-functional aspects such as performance and accessibility compliance should also be accounted for by the product manager in project plans.
 
-#### Usability testing
+##### Usability testing
 In the vein of feedback cycles and iterative development, usability testing provides key insight as to a product’s effectiveness.
 
-#### QA testing
+##### QA testing
 Product teams here seldom have a separate QA team taking the lead on establishing these testing practices and test suites. The product team should set aside time to perform QA testing before and after each release.
 
 ### DevSecOps
