@@ -48,7 +48,7 @@ You also need to ensure everything is documented and that all remaining tasks on
    -   Have the team perform a thorough review of any open issues that you have with any potential suggestions on how to implement them.
    -   Take screenshots of anything important and save them in your tracking tool or other shared space.
 Export all issues and GitHub-oriented project management artifacts.
-   -   Change ownership of the repository or repositories to the agency and fork that new repository. Be sure to add a disclaimer and link in the README and description noting that the newly-forked repo is for historical purposes.
+   -   Change ownership of the repository or repositories to the agency and fork that new repository. See the [18F Handbook](https://handbook.18f.gov/github/#rules) for relevant rules on transferring repositories. Be sure to add a disclaimer and link in the README and description noting that the newly-forked repo is for historical purposes.
 -   Transitioning all tasks to the client’s project team with the exception of team members working on project documentation.
    -   Do the team’s developers feel like a new developer could set up an instance of the software from the README file?
    -   Do the developers also feel that a new developer could easily learn to run each test suite from the README?
