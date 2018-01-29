@@ -41,26 +41,26 @@ navigation:
   url: we-do-product-well/
   internal: true
   children:
-  - text: The Problem and Vision
-    url: the-problem-and-vision/
+  - text: Defining the problem and vision
+    url: defining-the-problem-and-vision/
     internal: true
-  - text: The Strategy and Roadmap
-    url: the-strategy-and-roadmap/
+  - text: Crafting the strategy and roadmap
+    url: crafting-the-strategy-and-roadmap/
     internal: true
-  - text: Leading Teams
-    url: leading-teams/
+  - text: Leading dynamic and distributed teams
+    url: leading-dynamic-and-distributed-teams/
     internal: true
-  - text: Communication
-    url: communication/
+  - text: Communicating clearly, and often
+    url: communicating-clearly-and-often/
     internal: true
-  - text: Measurement and Iteration
-    url: measurement-and-iteration/
+  - text: Measuring progress, and iterating
+    url: measuring-progress-and-iterating/
     internal: true
   - text: Testing and DevSecOps
     url: testing-and-devsecops/
     internal: true
-- text: Our Values
-  url: our-values/
+- text: Working in a way that reflects our values
+  url: working-in-a-way-that-reflects-our-values/
   internal: true
   children:
   - text: Working in the Open

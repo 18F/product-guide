@@ -1,6 +1,6 @@
 ---
-permalink: /we-do-product-well/the-problem-and-vision/
-title: The Problem and Vision
+permalink: /we-do-product-well/defining-the-problem-and-vision/
+title: Defining the problem and vision
 parent: We Do Product Well
 ---
 We focus on solving the right problems, the right way. In other words, once we understand the problem, we are comfortable pivoting to different solutions, not to different markets. It’s critical that you deeply understand the problem you’re solving. Just as importantly, you need to bring everyone along with you. Your partners and teammates need to understand, and agree on, the problem you’re tackling.
@@ -12,3 +12,4 @@ Whether you’re working with external clients, or on a TTS-owned product, once 
 Creating alignment isn’t a one-time activity. Rather, you should be periodically reminding everyone of the vision and revisiting it as new information is learned over the course of the project. Documenting your vision and goals in a framing document, project brief, or roadmap gives your stakeholders (and your teammates) something tangible to sign off on. Documenting the vision helps maintain focus while also giving a reference point as the project progresses.
 
 In addition to keeping everyone focused on the vision, you also need to show the progress that you’ve made towards that vision. KPIs, OKRs, and other measurement frameworks are good tools to do that. Including metrics in your weekly status mails is an effective way to keep stakeholders updated about the team’s progress.
+
