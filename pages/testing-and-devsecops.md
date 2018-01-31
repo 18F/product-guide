@@ -4,7 +4,7 @@ title: Testing and devsecops
 parent: We Do Product Well
 ---
 ### Testing
-Establishing testing practices are key to enabling these needs. You will be working with your team to ensure that a testing strategy is in place covering the following:
+Establishing testing practices are key to enabling iterative software development. You will be working with your team to ensure that a testing strategy is in place covering the following:
 
 ##### Functional testing
 Whether it’s the first release or last release, our products need to be tested end to end.  Unit test coverage cannot replace functional testing.  
