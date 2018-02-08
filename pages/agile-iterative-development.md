@@ -7,6 +7,6 @@ At 18F, we have learned that value is best delivered on government software proj
 
 We aim to build increments that are intended to deliver some value to some set of users, so we can learn just enough to inform the next iteration. We hope to succeed each time, but we sometimes we don't get it right. The benefit of doing things this way is that we can recover from our mistakes without a lot of wasted time or money. We evaluate the mistake as a team, document our learnings, and adjust course in a better direction.
 
-We keep everyone in the loop throughout the process so that there are no surprises. And over time, this process yields software that is tightly bound to the needs of users, and to stakeholder goals. 
+We keep everyone in the loop throughout the process so that there are no surprises. And over time, this process will yield software that is tightly bound to the needs of users, and to stakeholder goals. 
 
-Whether you call it lean or agile or iterative development, the intention is to always start small with a clear idea of who you are helping and how you know you have successfully helped them, evaluate your success and feed that back into the product development process.
+Whether you call it lean or agile or iterative development, the intention is to always start small with a clear idea of who you are helping and how you know you have successfully helped them, evaluate your success and feed any learnings back into the product development process.
