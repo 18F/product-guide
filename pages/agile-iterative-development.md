@@ -3,10 +3,10 @@ permalink: /working-in-a-way-that-reflects-our-values/agile-iterative-developmen
 title: Agile/Iterative Development
 parent: Working in a way that reflects our values
 ---
-At 18F, we have learned that value is best delivered on government software projects by using <a href="https://agile.18f.gov/" target="_blank">agile and iterative</a> product development. By working closely with stakeholders, regularly delivering small pieces of the build, verifying direction and progress, and then adjusting or building new pieces, we’re able to track our progress and course-correct easily before sunk costs grow.
+At 18F, we have learned that value is best delivered on government software products by using an <a href="https://agile.18f.gov/" target="_blank">agile or iterative</a> approach. By working closely with users and stakeholders, regularly delivering small chunks of value, and verifying direction and progress, we’re able to quickly deliver quality software that meets user needs.
 
-Building with iterative cycles allows us to develop lean products that save cost, deliver quickly, and directly serve customer needs.
+With each incremental release (every two weeks or so), we intend to deliver value to some set of users. We hope to succeed every time, but sometimes, we don't get it right. The benefit of working this way is that we can recover from our mistakes quickly, without a lot of wasted time or money. When we do not succeed, we take time to evaluate the mistake as a team, document our learnings, and adjust course in a better direction. 
 
-We aim to deliver in increments so we can learn just enough to inform the next iteration. Part of the agile process is building small pieces, testing these with users to verify the product is working and valid, and then build more with that informed view.
+We keep everyone in the loop throughout this process so that there are no surprises. And, over time, this process will yield software that is tightly bound to the needs of users, and to stakeholder goals.
 
-We aim to deliver clear value. We don’t want to waste time, resources, or money on unnecessary features, so we rapidly build small increments and then test them to verify the solutions are working for users, and if not, we rebuild or research new solutions and test those until the user is satisfied.
+Whether you call it lean or agile or iterative development, the intention is to always start small with a clear idea of who you are helping and how you know you have successfully helped them, continually evaluate your success and feed any learnings back into the product development process.
