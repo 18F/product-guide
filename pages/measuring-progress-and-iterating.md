@@ -3,7 +3,7 @@ permalink: /we-do-product-well/measuring-progress-and-iterating/
 title: Measuring progress, and iterating
 parent: We Do Product Well
 ---
-We don’t just deliver exceptional digital services; we also aim to strengthen government technology practices in ways that last beyond our formal partnerships.  How do we know that we are delivering on those goals as our projects unfold?
+We don’t just deliver exceptional digital services; we also aim to strengthen government technology practices in ways that last beyond our formal partnerships.  How do we know that we are delivering on those goals as we build?
 
 Keep in mind that our partners may be very new to how we work and the transformations we want to instill. Metrics enable our partners to better visualize the value that we are delivering.
 

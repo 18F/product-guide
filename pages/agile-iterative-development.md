@@ -3,10 +3,10 @@ permalink: /working-in-a-way-that-reflects-our-values/agile-iterative-developmen
 title: Agile/Iterative Development
 parent: Working in a way that reflects our values
 ---
-At 18F, we have learned that value is best delivered on government software projects by using an <a href="https://agile.18f.gov/" target="_blank">iterative</a> product development process. By working closely with users and stakeholders, regularly delivering small chunks of value, verifying direction and progress, and then adjusting or building more increments, we’re able to track our progress and course-correct easily before sunk costs grow.
+At 18F, we have learned that value is best delivered on government software products by using an <a href="https://agile.18f.gov/" target="_blank">agile or iterative</a> approach. By working closely with users and stakeholders, regularly delivering small chunks of value, and verifying direction and progress, we’re able to quickly deliver quality software that meets user needs.
 
-With each incremental release (every two weeks or so), we intend to deliver value to some set of users, so we can learn just enough to inform the next iteration. We hope to succeed each time, but sometimes, we don't get it right. The benefit of working this way is that we can recover from our mistakes quickly, without a lot of wasted time or money. When we do not succeed, we take time to evaluate the mistake as a team, document our learnings, and adjust course in a better direction.
+With each incremental release (every two weeks or so), we intend to deliver value to some set of users. We hope to succeed every time, but sometimes, we don't get it right. The benefit of working this way is that we can recover from our mistakes quickly, without a lot of wasted time or money. When we do not succeed, we take time to evaluate the mistake as a team, document our learnings, and adjust course in a better direction. 
 
-We keep everyone in the loop throughout this process so that there are no surprises. And, over time, this process will yield software that is tightly bound to the needs of users, and to stakeholder goals. 
+We keep everyone in the loop throughout this process so that there are no surprises. And, over time, this process will yield software that is tightly bound to the needs of users, and to stakeholder goals.
 
-Whether you call it lean or agile or iterative development, the intention is to always start small with a clear idea of who you are helping and how you know you have successfully helped them, evaluate your success and feed any learnings back into the product development process.
+Whether you call it lean or agile or iterative development, the intention is to always start small with a clear idea of who you are helping and how you know you have successfully helped them, continually evaluate your success and feed any learnings back into the product development process.
