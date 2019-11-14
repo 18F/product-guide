@@ -14,7 +14,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     colorator (0.1)
-    ffi (1.9.10)
+    ffi (1.11.1)
     go_script (0.1.9)
       bundler (~> 1.10)
       safe_yaml (~> 1.0)
