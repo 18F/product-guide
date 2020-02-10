@@ -41,11 +41,17 @@ navigation:
   url: we-do-product-well/
   internal: true
   children:
-  - text: Defining the problem and vision
-    url: defining-the-problem-and-vision/
+  - text: Defining the problem
+    url: problem/
     internal: true
-  - text: Crafting the strategy and roadmap
-    url: crafting-the-strategy-and-roadmap/
+  - text: Creating a vision
+    url: vision/
+    internal: true
+  - text: Developing a strategy
+    url: strategy/
+    internal: true
+  - text: Crafting a roadmap
+    url: roadmap/
     internal: true
   - text: Leading dynamic and distributed teams
     url: leading-dynamic-and-distributed-teams/
