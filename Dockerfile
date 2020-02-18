@@ -5,7 +5,7 @@ COPY Gemfile* /tmp/
 WORKDIR /tmp
 RUN bundle install
 
-# Set app working direcotry and copy app there.
+# Set app working directory and copy app there.
 ENV app /product-guide
 RUN mkdir $app
 WORKDIR $app
