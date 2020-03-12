@@ -1,7 +1,5 @@
 ---
-permalink: /we-do-product-well/problem/
 title: Defining the problem
-parent: We Do Product Well
 ---
 
 We focus on solving the right problems, the right way. In other words, once we understand the problem, we are comfortable pivoting to different solutions, not to different markets. It's critical that you deeply understand the problem you're solving. Just as importantly, you need to bring everyone along with you. Your partners and teammates need to understand, and agree on, the problem you're tackling.

@@ -1,7 +1,5 @@
 ---
-permalink: /working-in-a-way-that-reflects-our-values/working-in-the-open/
 title: Working in the Open
-parent: Working in a way that reflects our values
 ---
 We <a href="https://open-source-guide.18f.gov/" target="_blank">work in the open</a> to improve security, accountability, and sustainability of the product. Working in the open allows for more eyes on the code and helps generate more feedback and support from partners. Just like a blameless retrospective, this allows us to iteratively and constantly continue to get better.
 

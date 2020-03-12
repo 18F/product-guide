@@ -1,7 +1,5 @@
 ---
-permalink: /we-do-product-well/communicating-clearly-and-often/
 title: Communicating clearly, and often
-parent: We Do Product Well
 ---
 Communicate clearly and often about your product to all of TTS, your stakeholders, users, and the public. This will help you refine and strengthen your strategy while alleviating the overhead of having to constantly respond to questions.
 

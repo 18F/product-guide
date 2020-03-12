@@ -1,7 +1,5 @@
 ---
-permalink: /working-in-a-way-that-reflects-our-values/agile-iterative-development/
 title: Agile/Iterative Development
-parent: Working in a way that reflects our values
 ---
 At 18F, we have learned that value is best delivered on government software products by using an <a href="https://agile.18f.gov/" target="_blank">agile or iterative</a> approach. By working closely with users and stakeholders, regularly delivering small chunks of value, and verifying direction and progress, we’re able to quickly deliver quality software that meets user needs.
 

@@ -1,7 +1,5 @@
 ---
-permalink: /we-do-product-well/testing-and-devsecops/
 title: Testing and devsecops
-parent: We Do Product Well
 ---
 ### Testing
 Establishing testing practices is key to enabling iterative software development. You will be working with your team to ensure that a testing strategy is in place covering the following:

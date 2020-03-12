@@ -1,7 +1,5 @@
 ---
-permalink: /we-do-product-well/strategy/
 title: Developing a strategy
-parent: We Do Product Well
 ---
 
 Once you have a vision, you need to align on how to realize it. It's helpful to think about what elements to consider in your strategy and how they may relate to one another.

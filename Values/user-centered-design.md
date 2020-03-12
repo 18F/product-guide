@@ -1,7 +1,5 @@
 ---
-permalink: /working-in-a-way-that-reflects-our-values/user-centered-design/
 title: User-centered Design
-parent: Working in a way that reflects our values
 ---
 <a href="https://methods.18f.gov/" target="_blank">User-centered design</a> ensures that we’re delivering value to users by putting them at the center of our problem solving, instead of soley focusing on stakeholders. Researchers help us deeply understand the people that our products serve. UX designers craft thoughtful, inclusive solutions. Specialists in visual design and content strategy help us communicate effectively with everyone in our audience.
 
