@@ -57,7 +57,7 @@ navigation:
   url: delivery/
   internal: true
   children:
-   - text: Agile/Iterative Development
+  - text: Agile/Iterative Development
     url: agile-iterative-development/
     internal: true
   - text: Measuring progress, and iterating
@@ -89,6 +89,10 @@ navigation:
 - text: We Help our Partners do Product by Themselves
   url: we-help-our-partners-do-product-by-themselves/
   internal: true
+  children:
+  - text: Enable partner for long-term success
+    url: enable/
+    internal: true
 
 repos:
 - name: Product Guide
