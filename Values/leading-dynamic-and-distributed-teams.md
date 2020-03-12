@@ -1,7 +1,5 @@
 ---
-permalink: /we-do-product-well/leading-dynamic-and-distributed-teams/
 title: Leading dynamic and distributed teams
-parent: We Do Product Well
 ---
 You will be working on distributed teams comprised of designers, engineers, researchers, policy experts, contracting experts and, frequently, agency partners. You are tasked with ‘leading from within’ (you are a member of the team and everyone is on equal footing)&mdash;you must provide direction to the team so that they are focused on the right priorities and feel empowered and excited to build the right solution. The vision and strategy will set initial direction and give the team a north star, and you will be leading the team to deliver in that direction.
 

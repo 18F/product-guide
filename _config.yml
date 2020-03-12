@@ -37,8 +37,8 @@ navigation:
 - text: Product Management at 18F
   url: product-management-at-18f/
   internal: true
-- text: We do Product Well
-  url: we-do-product-well/
+- text: Defining the Future State
+  url: future/
   internal: true
   children:
   - text: Defining the problem
@@ -53,11 +53,12 @@ navigation:
   - text: Crafting a roadmap
     url: roadmap/
     internal: true
-  - text: Leading dynamic and distributed teams
-    url: leading-dynamic-and-distributed-teams/
-    internal: true
-  - text: Communicating clearly, and often
-    url: communicating-clearly-and-often/
+- text: Delivering the Right Way
+  url: delivery/
+  internal: true
+  children:
+  - text: Agile/Iterative Development
+    url: agile-iterative-development/
     internal: true
   - text: Measuring progress, and iterating
     url: measuring-progress-and-iterating/
@@ -66,15 +67,19 @@ navigation:
     url: testing-and-devsecops/
     internal: true
 - text: Working in a way that reflects our values
-  url: working-in-a-way-that-reflects-our-values/
+  url: values/
   internal: true
   children:
+  - text: Leading dynamic and distributed teams
+    url: leading-dynamic-and-distributed-teams/
+    internal: true
+  - text: Communicating clearly, and often
+    url: communicating-clearly-and-often/
+    internal: true
   - text: Working in the Open
     url: working-in-the-open/
     internal: true
-  - text: Agile/Iterative Development
-    url: agile-iterative-development/
-    internal: true
+ 
   - text: User-centered Design
     url: user-centered-design/
     internal: true
@@ -84,6 +89,10 @@ navigation:
 - text: We Help our Partners do Product by Themselves
   url: we-help-our-partners-do-product-by-themselves/
   internal: true
+  children:
+  - text: Enable partner for long-term success
+    url: enable/
+    internal: true
 
 repos:
 - name: Product Guide

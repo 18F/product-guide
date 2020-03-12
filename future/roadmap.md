@@ -1,7 +1,5 @@
 ---
-permalink: /we-do-product-well/roadmap/
 title: Crafting a roadmap
-parent: We Do Product Well
 ---
 
 The classic expression of product strategy is a roadmap, which details a sequence of measurable goals and expected outcomes. An agile roadmap will evolve throughout the life of any product you are working on, but should always represent the latest strategic thinking. Make it public and be clear about the bets you are making, who they are designed to help, and how you know you will win or lose. Your roadmap should be designed to meet the specific needs of your product's internal and external stakeholders and may look different from other product roadmaps in terms of structure and presentation.

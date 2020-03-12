@@ -1,7 +1,5 @@
 ---
-permalink: /working-in-a-way-that-reflects-our-values/continuous-delivery/
 title: Continuous Delivery
-parent: Working in a way that reflects our values
 ---
 Agile product development requires <a href="https://continuousdelivery.com/" target="_blank">continuous delivery of value</a> to real users (if you aren’t deploying to production, you aren’t doing Agile). Continuous delivery means that instead of big-bang production releases every 6 months or longer, value is delivered frequently (usually every 2 weeks) in real life production situations, so teams can get the actionable feedback that fuels iteration.
 
