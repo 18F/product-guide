@@ -57,14 +57,14 @@ navigation:
   url: delivery/
   internal: true
   children:
-  - text: Agile/Iterative Development
-    url: agile-iterative-development/
+  - text: Building a product
+    url: build/
     internal: true
-  - text: Measuring progress, and iterating
-    url: measuring-progress-and-iterating/
+  - text: Customer collaboration and communication
+    url: collaborate/
     internal: true
-  - text: Testing and DevSecOps
-    url: testing-and-devsecops/
+  - text: Measuring success
+    url: measure/
     internal: true
 - text: Working in a way that reflects our values
   url: values/
