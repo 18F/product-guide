@@ -46,22 +46,12 @@ Links to templates, examples, overview articles, training materials, detailed gu
 
 -   [What is a problem statement](https://docs.google.com/presentation/d/1KDf3rppwlkZGzNsG-dn1CbkaYWlO8B1H2Is54646A4A/edit#slide=id.g1d7a840d6b_0_78): An overview of what is a problem statement, what makes one strong vs weak, and problem statements in the context of our work at 18F. 
 
-[Internal, Slide Deck]
-
 -   [How to build a problem statement (1)](https://medium.com/eightshapes-llc/how-to-build-a-problem-statement-d1f21713720b): A format / exercise for generating problem statements.
-
-[External, web article]
 
 -   [How to build a problem statement (2)](https://docs.google.com/document/d/1GjzpUHQZGWG8lEzg8ZAMqRG3tZhaw_V010OUnt9yKeI/edit#): Elements of a good problem statement, along with sample formats and examples.
 
-[Internal, Doc]
-
 -   [How to prioritize problem statements (1)](https://methods.18f.gov/discover/kj-method/): KJ Method, a general prioritization method involving brainstorming, [affinity grouping](https://methods.18f.gov/decide/affinity-mapping/), and ranking (e.g., [dot voting](https://methods.18f.gov/discover/dot-voting/)).
 
-[External, web page]
-
 -   [How to prioritize problem statements (2)](https://www.mindtheproduct.com/enter-matrix-lean-prioritisation/): 2x2 Prioritization Matrix, a method often used to prioritize tasks or backlog items but that can be used more generally to sort items based on factors such as Effort vs Value.
-
-[External, web page]
 
 -   [How to identify the root cause of a problem](https://methods.18f.gov/discover/five-whys/): Five Whys, an iterative process for uncovering the root cause underlying the observable problem.
