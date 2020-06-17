@@ -12,6 +12,10 @@ exclude:
 - go
 - vendor
 
+url: "https://product-guide.18f.gov"
+gems:
+  - jekyll-sitemap
+
 permalink: pretty
 highlighter: rouge
 incremental: true
@@ -79,7 +83,7 @@ navigation:
   - text: Working in the Open
     url: working-in-the-open/
     internal: true
- 
+
   - text: User-centered Design
     url: user-centered-design/
     internal: true
