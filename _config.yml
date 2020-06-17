@@ -13,7 +13,7 @@ exclude:
 - vendor
 
 url: "https://product-guide.18f.gov"
-plugins:
+gems:
   - jekyll-sitemap
 
 permalink: pretty
