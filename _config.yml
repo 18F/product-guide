@@ -66,28 +66,8 @@ navigation:
   - text: Measuring success
     url: measure/
     internal: true
-- text: Working in a way that reflects our values
-  url: values/
-  internal: true
-  children:
-  - text: Leading dynamic and distributed teams
-    url: leading-dynamic-and-distributed-teams/
-    internal: true
-  - text: Communicating clearly, and often
-    url: communicating-clearly-and-often/
-    internal: true
-  - text: Working in the Open
-    url: working-in-the-open/
-    internal: true
- 
-  - text: User-centered Design
-    url: user-centered-design/
-    internal: true
-  - text: Continuous Delivery
-    url: continuous-delivery/
-    internal: true
 - text: We Help our Partners do Product by Themselves
-  url: we-help-our-partners-do-product-by-themselves/
+  url: enablement/
   internal: true
   children:
   - text: Enable partner for long-term success

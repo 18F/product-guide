@@ -18,7 +18,7 @@ Just as importantly, you need to bring everyone along with you. Your partners an
 
 -   Inspires key stakeholders to commit to solving the problem
 
-###Activities: How do you get there?
+###Activities: How to get there
 
 Problem statements can be written at different levels or granularities, and you will likely find yourself defining the problem multiple times over the course of an engagement.
 
@@ -30,7 +30,7 @@ Problem statements can be written at different levels or granularities, and you 
 
 -   Prioritize pain points and research themes based on frequency, urgency, or impact
 
-###Incorporation: What do you do with it?
+###Incorporation: What to do with it
 
 -   Document the problem throughout implementation and keep it visible and central. Refer to it regularly to help the team stay focused
 
