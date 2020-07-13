@@ -67,7 +67,7 @@ navigation:
     url: measure/
     internal: true
 - text: We Help our Partners do Product by Themselves
-  url: enablement/
+  url: partners/
   internal: true
   children:
   - text: Enable partner for long-term success
