@@ -1,0 +1,6 @@
+usa_banner: true
+type: extended
+primary:
+  links: primary
+secondary:
+  links: secondary

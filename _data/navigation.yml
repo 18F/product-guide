@@ -1,0 +1,35 @@
+primary:
+  - text: Welcome
+    href: /
+  - text: Product Management at 18F
+    links:
+      - text: Overview
+        href: /product-management-at-18f/
+  - text: Defining the Future State
+    links:
+      - text: Overview
+        href: /future/
+      - text: Defining the problem
+        href: /future/problem/
+      - text: Crafting a vision
+        href: /future/vision/
+      - text: Developing a strategy
+        href: /future/strategy/
+      - text: Crafting a roadmap
+        href: /future/roadmap/
+  - text: Delivering the Right Way
+    links:
+      - text: Overview
+        href: /delivery/
+      - text: Building a product
+        href: /delivery/build/
+      - text: Customer collaboration and communication
+        href: /delivery/collaborate/
+      - text: Measure success
+        href: /delivery/measure/
+  - text: We help our partners do Product by themselves
+    links:
+      - text: Overview
+        href: /partners/
+      - text: Enable partner for long term success
+        href: /partners/enable/
