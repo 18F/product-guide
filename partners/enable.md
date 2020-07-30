@@ -1,6 +1,6 @@
---
+---
 title: Enable partner for long-term success
---
+---
 
 To enable long-term partner success, focus on the following:
 
