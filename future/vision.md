@@ -1,5 +1,5 @@
 ---
-title: Crafting a vision
+title: Craft a vision
 ---
 
 When working with an external client, you should focus on helping them understand and articulate their vision. While you can undoubtedly come up with a great vision for the project all by yourself, it's not sustainable---because you're going to walk away from this project and leave it in your client's hands. Our goal is to help our partners grow their internal practices, and teaching them how to set a strong vision is an important first step on that journey.
