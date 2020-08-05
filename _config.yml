@@ -41,24 +41,40 @@ navigation:
 - text: Product Management at 18F
   url: product-management-at-18f/
   internal: true
-- text: Defining the Future State
+- text: Discover the current state
+  url: discover/
+  internal: true
+  children:
+  - text: Understand the affected users and stakeholders
+    url: audience/
+    internal: true
+  - text: Understand the 'as-is' process
+    url: process/
+    internal: true
+  - text: Undertsand the technical landscape
+    url: technical/
+    internal: true
+  - text: Understand the regulatory landscape
+    url: compliance/
+    internal: true
+- text: Define the future state
   url: future/
   internal: true
   children:
-  - text: Defining the problem
+  - text: Define the problem
     url: problem/
     internal: true
-  - text: Creating a vision
+  - text: Create the vision
     url: vision/
     internal: true
-  - text: Developing a strategy
+  - text: Develop a strategy
     url: strategy/
     internal: true
-  - text: Crafting a roadmap
+  - text: Craft a roadmap
     url: roadmap/
     internal: true
-- text: Delivering the Right Way
-  url: delivery/
+- text: Deliver the "right way"
+  url: deliver/
   internal: true
   children:
   - text: Building a product
