@@ -2,34 +2,44 @@ primary:
   - text: Welcome
     href: /
   - text: Product Management at 18F
+    href: /product-management-at-18f/
+  - text: Discover the current state
     links:
       - text: Overview
-        href: /product-management-at-18f/
-  - text: Defining the Future State
+        href: /discover/
+      - text: Understand the affected users and stakeholders
+        href: /discover/audience/
+      - text: Understand the 'as-is' process
+        href: /discover/process/
+      - text: Undertsand the technical landscape
+        href: /discover/technical/
+      - text: Understand the regulatory landscape
+        href: /discover/compliance/
+  - text: Define the future state
     links:
       - text: Overview
         href: /future/
-      - text: Defining the problem
+      - text: Define the problem
         href: /future/problem/
-      - text: Crafting a vision
+      - text: Create the vision
         href: /future/vision/
-      - text: Developing a strategy
+      - text: Develop a strategy
         href: /future/strategy/
-      - text: Crafting a roadmap
+      - text: Craft a roadmap
         href: /future/roadmap/
-  - text: Delivering the Right Way
+  - text: Deliver the "right way"
     links:
       - text: Overview
-        href: /delivery/
+        href: /deliver/
       - text: Building a product
-        href: /delivery/build/
+        href: /deliver/build/
       - text: Customer collaboration and communication
-        href: /delivery/collaborate/
-      - text: Measure success
-        href: /delivery/measure/
-  - text: We help our partners do Product by themselves
+        href: /deliver/collaborate/
+      - text: Measuring success
+        href: /deliver/measure/
+  - text: We Help our Partners do Product by Themselves
     links:
       - text: Overview
         href: /partners/
-      - text: Enable partner for long term success
+      - text: Enable partner for long-term success
         href: /partners/enable/
