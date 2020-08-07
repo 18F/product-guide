@@ -4,3 +4,4 @@ _site/
 .*.swp
 .bundle/
 .jekyll*
+.jekyll-cache/
