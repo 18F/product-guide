@@ -34,9 +34,6 @@ navigation:
 - text: Welcome
   url: index.html
   internal: true
-- text: Product Management at 18F
-  url: product-management-at-18f/
-  internal: true
 - text: Discover the current state
   url: discover/
   internal: true
@@ -73,16 +70,16 @@ navigation:
   url: deliver/
   internal: true
   children:
-  - text: Building a product
+  - text: Build a product
     url: build/
     internal: true
-  - text: Customer collaboration and communication
+  - text: Collaborate and communicate
     url: collaborate/
     internal: true
-  - text: Measuring success
+  - text: Measure success
     url: measure/
     internal: true
-- text: We Help our Partners do Product by Themselves
+- text: Enable partners
   url: partners/
   internal: true
   children:
