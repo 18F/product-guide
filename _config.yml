@@ -83,7 +83,7 @@ navigation:
   url: partners/
   internal: true
   children:
-  - text: Enable partner for long-term success
+  - text: Enable partners for long-term success
     url: enable/
     internal: true
 
