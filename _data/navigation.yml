@@ -1,0 +1,43 @@
+primary:
+  - text: Welcome
+    href: /
+  - text: Discover the current state
+    links:
+      - text: Overview
+        href: /discover/
+      - text: Understand the affected users and stakeholders
+        href: /discover/audience/
+      - text: Understand the 'as-is' process
+        href: /discover/process/
+      - text: Undertsand the technical landscape
+        href: /discover/technical/
+      - text: Understand the regulatory landscape
+        href: /discover/compliance/
+  - text: Define the future state
+    links:
+      - text: Overview
+        href: /future/
+      - text: Define the problem
+        href: /future/problem/
+      - text: Create the vision
+        href: /future/vision/
+      - text: Develop a strategy
+        href: /future/strategy/
+      - text: Craft a roadmap
+        href: /future/roadmap/
+  - text: Deliver the "right way"
+    links:
+      - text: Overview
+        href: /deliver/
+      - text: Build a product
+        href: /deliver/build/
+      - text: Collaborate and communicate
+        href: /deliver/collaborate/
+      - text: Measure success
+        href: /deliver/measure/
+  - text: Enable partners
+    links:
+      - text: Overview
+        href: /partners/
+      - text: Enable partners for long-term success
+        href: /partners/enable/

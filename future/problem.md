@@ -6,7 +6,7 @@ It's critical that you deeply understand the problem you're solving. This means 
 
 Just as importantly, you need to bring everyone along with you. Your partners and teammates need to agree on the problem you're tackling and the problems you are not tackling. A well-written problem statement helps align and motivate your team around a common goal, providing focus and keeping distractions at bay.
 
-###Considerations: A good problem statement
+### Considerations: A good problem statement
 
 -   Defines the overlying problem
 
@@ -18,7 +18,7 @@ Just as importantly, you need to bring everyone along with you. Your partners an
 
 -   Inspires key stakeholders to commit to solving the problem
 
-###Activities: How to get there
+### Activities: How to get there
 
 Problem statements can be written at different levels or granularities, and you will likely find yourself defining the problem multiple times over the course of an engagement.
 
@@ -30,7 +30,7 @@ Problem statements can be written at different levels or granularities, and you 
 
 -   Prioritize pain points and research themes based on frequency, urgency, or impact
 
-###Incorporation: What to do with it
+### Incorporation: What to do with it
 
 -   Document the problem throughout implementation and keep it visible and central. Refer to it regularly to help the team stay focused
 
@@ -40,7 +40,7 @@ Problem statements can be written at different levels or granularities, and you 
 
 -   As you absorb new information, regularly reconsider the problem and update as appropriate
 
-###RESOURCES 
+### RESOURCES 
 
 Links to templates, examples, overview articles, training materials, detailed guidance/instructions, people/channels to reach out to for help, etc
 
