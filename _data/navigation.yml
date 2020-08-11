@@ -1,8 +1,6 @@
 primary:
   - text: Welcome
     href: /
-  - text: Product Management at 18F
-    href: /product-management-at-18f/
   - text: Discover the current state
     links:
       - text: Overview
@@ -31,15 +29,15 @@ primary:
     links:
       - text: Overview
         href: /deliver/
-      - text: Building a product
+      - text: Build a product
         href: /deliver/build/
-      - text: Customer collaboration and communication
+      - text: Collaborate and communicate
         href: /deliver/collaborate/
-      - text: Measuring success
+      - text: Measure success
         href: /deliver/measure/
-  - text: We Help our Partners do Product by Themselves
+  - text: Enable partners
     links:
       - text: Overview
         href: /partners/
-      - text: Enable partner for long-term success
+      - text: Enable partners for long-term success
         href: /partners/enable/

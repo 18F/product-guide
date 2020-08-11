@@ -20,16 +20,16 @@ sass:
   style: :compressed
 
 github_info:
-    organization: 18F
-    repository: product-guide
-    default_branch: master
+  organization: 18F
+  repository: product-guide
+  default_branch: master
 
 search_site_handle: product-guide.18f.gov
 
 google_analytics_ua: UA-48605964-19
 
 defaults:
-- scope:
-    path: ""
-  values:
-    layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
