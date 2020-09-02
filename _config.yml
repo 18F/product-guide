@@ -22,7 +22,7 @@ sass:
 github_info:
   organization: 18F
   repository: product-guide
-  default_branch: master
+  default_branch: 18f-pages
 
 search_site_handle: product-guide.18f.gov
 
