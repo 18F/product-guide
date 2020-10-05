@@ -27,6 +27,9 @@ github_info:
 search_site_handle: product-guide.18f.gov
 
 google_analytics_ua: UA-48605964-19
+  dap:
+    agency: GSA    # Change this to your agency
+    subagency: TTS,18F # Change this to your agency
 
 defaults:
   - scope:
