@@ -6,7 +6,7 @@ Many different people may have an interest in the outcome of your work or be abl
 
 Sometimes your partner will have a good understanding of who these stakeholders are, but sometimes they may not be able to immediately articulate who can impact the work, and other times it may seem like everyone is a stakeholder.  In addition, your partner may be reluctant to share information or may not realize what information is important to share with you.  By clarifying the underlying dynamics and motivations at play, you will be able to help your partner engage their stakeholders more strategically.  To do so, it will be important to build rapport with your partner and facilitate open conversations to create an environment of trust.   
 
-**Considerations: A good understanding of stakeholders…**
+## Considerations: A good understanding of stakeholders…
 
 - Defines the key stakeholders in the partner’s organization who have an interest in this work and can influence or impact the current process
 
@@ -16,7 +16,7 @@ Sometimes your partner will have a good understanding of who these stakeholders 
 
 - Clarifies their ideal levels of involvement in day to day work, updates, and decisions
 
-**Activities: How to get there**
+## Activities: How to get there
 
 - Understand who will be overseeing your work, what they’re responsible for, and what’s in it for them.
 
@@ -32,7 +32,7 @@ Sometimes your partner will have a good understanding of who these stakeholders 
 
 - Ask your stakeholders what metrics or results they are accountable for, what pressures they face, what initiatives they’re focused on, and what it would mean if this project is and is not a success.
 
-**Incorporation: What to do next**
+## Incorporation: What to do next
 
 - Draw on what you’ve learned from your stakeholders to refine your initial stakeholder map.
 
@@ -40,7 +40,7 @@ Sometimes your partner will have a good understanding of who these stakeholders 
 
 - Incorporate your stakeholders’ needs and interests when defining the [future state]({{site.baseurl}}/future/).
 
-**RESOURCES**
+## RESOURCES
 
 - [How to identify stakeholders [1]](https://app.mural.co/t/gsa6/m/gsa6/1603921593244/a37e126788a75cbf3aad53c52cecbf266bdecd41): A template for a facilitated stakeholder mapping exercise to identify different stakeholders and how you plan to engage them.
 

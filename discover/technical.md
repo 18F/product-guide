@@ -4,7 +4,7 @@ title: Understand The Technical Landscape
 
 The partner’s technical landscape will impact how you plan for the future “to be” state.  You will want to work with your engineering lead to ensure that you have a solid understanding of your partner’s current systems and processes, and the implications for defining a path forward.  Understanding the technology they’re currently using and their interdependencies will help your team identify factors that complicate or constrain your options.  Understanding their security and privacy requirements and the processes they rely on to remain in compliance will help your team plan ahead and identify opportunities to “shift security left” to increase efficiency.  And understanding the resources and skill sets they have available will allow you, your engineer, and your acquisitions lead to consider strategies for maintenance and sustainability.  
 
-**Considerations: A good understanding of the technical landscape...**
+## Considerations: A good understanding of the technical landscape...
 
 - Identifies key technical and security risks, requirements, and/or restrictions that will influence your planning for the future "to-be" state
 
@@ -12,7 +12,7 @@ The partner’s technical landscape will impact how you plan for the future “t
 
 - Evaluates the current tech team capacity to maintain and support the product post-build to determine an appropriate vendor acquisition strategy  
 
-**Activities: How to get there**
+## Activities: How to get there
 
 Technical discovery will typically be led by engineering, but product managers should support this work and understand the implications of the findings.
 
@@ -33,7 +33,7 @@ Technical discovery will typically be led by engineering, but product managers s
 
 - Take inventory of the tools, people, and skills that exist within the organization, and engage your acquisitions lead to review contracts.
 
-**Incorporation: What to do next**
+## Incorporation: What to do next
 
 - Report out on assessment in order to facilitate a decision amongst stakeholders on the best available solutions.
 
@@ -41,7 +41,7 @@ Technical discovery will typically be led by engineering, but product managers s
 
 - Draw on your research to develop a technical roadmap that will help your partner reach their desired [future state]({{site.baseurl}}/future/).
 
-**RESOURCES**
+## RESOURCES
 
 - [How to assess DevSecOps maturity [1]](https://docs.google.com/document/d/12DBH9QpxHUtTZWelks7briNrxrR3crrHzFPp3SR6sr0/edit#): An example of a checklist developed to help an agency assess technical work from vendors, but that can also be used to assess the agency’s DevSecOps maturity level.
 
