@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 18F Product Guide
-email: 18f-xd@gsa.gov
+email: 18F@gsa.gov
 description: >-
-  How to plan, write, and manage content at 18F.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://product-guide.18f.gov" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 18F
