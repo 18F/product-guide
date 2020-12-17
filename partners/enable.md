@@ -1,5 +1,6 @@
 ---
 title: Enable partners for long-term success
+permalink: /partners/enable/
 ---
 
 To enable long-term partner success, focus on the following:

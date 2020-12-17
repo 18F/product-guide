@@ -1,5 +1,6 @@
 ---
 title: Define the problem
+permalink: /future/problem/
 ---
 
 It's critical that you deeply understand the problem you're solving. This means that once you understand the problem, you are comfortable exploring and pivoting to different solutions. 
