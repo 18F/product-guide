@@ -6,9 +6,9 @@ primary:
       - text: Overview
         href: /discover/
       - text: Understand the affected users and stakeholders
-        href: /discover/audience/
-      - text: Understand the 'as-is' process
-        href: /discover/process/
+        href: /discover/users/
+      - text: Understand your stakeholders
+        href: /discover/stakeholders/
       - text: Understand the technical landscape
         href: /discover/technical/
       - text: Understand the regulatory landscape
