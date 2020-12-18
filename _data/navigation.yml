@@ -6,7 +6,7 @@ primary:
       - text: Overview
         href: /discover/
       - text: Understand the users and their 'as is' process
-        href: /discover/audience/
+        href: /discover/users/
       - text: Understand your stakeholders
         href: /discover/stakeholders/
       - text: Understand the technical landscape
