@@ -41,7 +41,7 @@ Technical discovery will typically be led by engineering, but product managers s
 
 - Draw on your research to develop a technical roadmap that will help your partner reach their desired [future state]({{site.baseurl}}/future/).
 
-## RESOURCES
+## Resources
 
 - [How to assess DevSecOps maturity [1]](https://docs.google.com/document/d/12DBH9QpxHUtTZWelks7briNrxrR3crrHzFPp3SR6sr0/edit#): An example of a checklist developed to help an agency assess technical work from vendors, but that can also be used to assess the agency’s DevSecOps maturity level.
 
