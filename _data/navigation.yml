@@ -5,7 +5,7 @@ primary:
     links:
       - text: Overview
         href: /discover/
-      - text: Understand affected users and stakeholders
+      - text: Understand users and their 'as is' process
         href: /discover/users/
       - text: Understand your stakeholders
         href: /discover/stakeholders/
