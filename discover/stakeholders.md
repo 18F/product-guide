@@ -40,7 +40,7 @@ Sometimes your partner will have a good understanding of who these stakeholders 
 
 - Incorporate your stakeholders’ needs and interests when defining the [future state]({{site.baseurl}}/future/).
 
-## RESOURCES
+## Resources
 
 - [How to identify stakeholders [1]](https://app.mural.co/t/gsa6/m/gsa6/1603921593244/a37e126788a75cbf3aad53c52cecbf266bdecd41): A template for a facilitated stakeholder mapping exercise to identify different stakeholders and how you plan to engage them.
 
