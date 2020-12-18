@@ -52,7 +52,7 @@ Your partners likely have an incomplete view of the current state or what their 
 
 - Draw on your research to help your partner articulate a concise problem statement, create an inspirational vision, and develop a strategy for achieving their desired [future state]({{site.baseurl}}/future/).
 
-## RESOURCES
+## Resources
 
 - [How to conduct user research [1]](https://methods.18f.gov/): 18F Methods provide instruction on several different research activities to consider, including [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), and more.
 
