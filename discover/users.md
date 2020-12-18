@@ -1,5 +1,5 @@
 ---
-title: Understand the users and their ‘as-is’ process
+title: Understand users and their ‘as-is’ process
 permalink: /discover/users/
 ---
 
