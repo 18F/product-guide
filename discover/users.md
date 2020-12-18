@@ -10,7 +10,7 @@ In addition, no process, service, or product lives in a vacuum, so you will want
 
 Your partners likely have an incomplete view of the current state or what their users need, so developing a shared baseline of where you are starting from is a necessary step to envisioning a path forward.
 
-**Considerations: A good understanding of the users…**
+## Considerations: A good understanding of the users…
 
 - Defines the key users and consumers of the current process
 
@@ -24,7 +24,7 @@ Your partners likely have an incomplete view of the current state or what their 
 
 - Distinguishes between those most affected or impacted by the current process and those with a more peripheral interest
 
-**Activities: How to get there**
+## Activities: How to get there
 
 - Work with your design lead (if you have one on your team) and your other team members to create a research plan. Determine what you want to learn, what methods you’ll use, and who will participate.
 
@@ -44,7 +44,7 @@ Your partners likely have an incomplete view of the current state or what their 
 
 - If your problem space is large, get alignment from business leads on initial prioritization to focus additional research activities.
 
-**Incorporation: What to do next**
+## Incorporation: What to do next
 
 - Report out to organizational stakeholders to build empathy around the current state.
 
@@ -52,7 +52,7 @@ Your partners likely have an incomplete view of the current state or what their 
 
 - Draw on your research to help your partner articulate a concise problem statement, create an inspirational vision, and develop a strategy for achieving their desired [future state]({{site.baseurl}}/future/).
 
-**RESOURCES**
+## Resources
 
 - [How to conduct user research [1]](https://methods.18f.gov/): 18F Methods provide instruction on several different research activities to consider, including [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), and more.
 
