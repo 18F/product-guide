@@ -1,5 +1,6 @@
 ---
-title: Understand The Users And Their ‘As Is’ Process
+title: Understand users and their ‘as-is’ process
+permalink: /discover/users/
 ---
 
 Many different people may be impacted by the outcome of your work.  Being clear about who you are focused on helping will inform your solution and strategy.  Understanding who you are solving a problem for is also important for creating a user-centric mindset with your team and building empathy and motivation for your work.  If you have a design lead on your team, they will likely lead this work, but the entire team should be closely involved.

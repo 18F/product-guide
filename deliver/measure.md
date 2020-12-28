@@ -1,5 +1,6 @@
 ---
 title: Measure success
+permalink: /deliver/measure/
 ---
 We don’t just deliver exceptional digital services; we also aim to strengthen government technology practices in ways that last beyond our formal partnerships. How do we know that we are delivering on those goals as we build?
 

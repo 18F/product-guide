@@ -1,5 +1,6 @@
 ---
 title: Develop a strategy
+permalink: /future/strategy/
 ---
 
 Once you have a vision, you need to align on how to realize it. It's helpful to think about what elements to consider in your strategy and how they may relate to one another.
