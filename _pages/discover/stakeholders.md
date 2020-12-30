@@ -1,6 +1,18 @@
 ---
+layout: post
 title: Understand your key stakeholders
 permalink: /discover/stakeholders/
+sidenav: discover
+sticky_sidenav: true
+subnav:
+- text: Considerations
+  href: '#considerations-a-good-understanding-of-stakeholders'
+- text: Activities
+  href: '#activities-how-to-get-there'
+- text: Incorporation
+  href: '#incorporation-what-to-do-next'
+- text: Resources
+  href: '#resources'
 ---
 
 Many different people may have an interest in the outcome of your work or be able to affect the project’s direction or success.  Determining who may be the key champions or skeptics of your work, and what their interests are, will allow you to navigate organization dynamics and build consensus.
@@ -39,7 +51,7 @@ Sometimes your partner will have a good understanding of who these stakeholders 
 
 - Work with your partner to create a stakeholder engagement plan that tailors the content and frequency of your [communications]({{site.baseurl}}/deliver/collaborate) to their needs and interests.
 
-- Incorporate your stakeholders’ needs and interests when defining the [future state]({{site.baseurl}}/future/).
+- Incorporate your stakeholders’ needs and interests when defining the [future state]({{site.baseurl}}/define/).
 
 ## Resources
 

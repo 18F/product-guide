@@ -1,6 +1,18 @@
 ---
+layout: post
 title: Understand users and their ‘as-is’ process
 permalink: /discover/users/
+sidenav: discover
+sticky_sidenav: true
+subnav:
+- text: Considerations
+  href: '#considerations-a-good-understanding-of-the-users'
+- text: Activities
+  href: '#activities-how-to-get-there'
+- text: Incorporation
+  href: '#incorporation-what-to-do-next'
+- text: Resources
+  href: '#resources'
 ---
 
 Many different people may be impacted by the outcome of your work.  Being clear about who you are focused on helping will inform your solution and strategy.  Understanding who you are solving a problem for is also important for creating a user-centric mindset with your team and building empathy and motivation for your work.  If you have a design lead on your team, they will likely lead this work, but the entire team should be closely involved.
@@ -51,7 +63,7 @@ Your partners likely have an incomplete view of the current state or what their 
 
 - Translate your findings into preliminary recommendations or decision points around the problems and use cases to support.
 
-- Draw on your research to help your partner articulate a concise problem statement, create an inspirational vision, and develop a strategy for achieving their desired [future state]({{site.baseurl}}/future/).
+- Draw on your research to help your partner articulate a concise problem statement, create an inspirational vision, and develop a strategy for achieving their desired [future state]({{site.baseurl}}/define/).
 
 ## Resources
 
