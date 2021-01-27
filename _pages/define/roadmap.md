@@ -4,13 +4,6 @@ title: Craft a roadmap
 permalink: /define/roadmap/
 sidenav: define
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-a-good-roadmap'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporation-what-to-do-next'
 ---
 
 The classic expression of product strategy is a roadmap, which details a sequence of measurable goals and expected outcomes. An agile roadmap will evolve throughout the life of any product you are working on, but should always represent the latest strategic thinking. Make it public and be clear about the bets you are making, who they are designed to help, and how you know you will win or lose. Your roadmap should be designed to meet the specific needs of your product’s internal and external stakeholders and may look different from other product roadmaps in terms of structure and presentation.
@@ -19,17 +12,17 @@ Because we are agile in our approach, it’s important for everyone to understan
 
 ## Considerations: A good roadmap...
 
-- Is a plausible plan for achieving long-term goals that informs a pragmatic plan for achieving short-term goals.
+- Is a plausible plan for achieving long-term goals that informs a pragmatic plan for achieving short-term goals
 
-- Is higher fidelity in the short term, and fuzzier the further out it goes.
+- Is higher fidelity in the short term, and fuzzier the further out it goes
 
-- Defines short-term goals clearly enough that the value to be delivered is clear and it is possible to estimate the level of effort needed to achieve the goals.
+- Defines short-term goals clearly enough that the value to be delivered is clear and it is possible to estimate the level of effort needed to achieve the goals
 
-- Surfaces known dependencies and risks.
+- Surfaces known dependencies and risks
 
-- Tracks back to measurable outcomes (metrics) that support the strategy and vision.
+- Tracks back to measurable outcomes (metrics) that support the strategy and vision
 
-- Is understandable to key stakeholders, who are then able to explain it to others.
+- Is understandable to key stakeholders, who are then able to explain it to others
 
 ## Activities: How to get there
 

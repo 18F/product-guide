@@ -4,15 +4,6 @@ title: Understand the technical landscape
 permalink: /discover/technical/
 sidenav: discover
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-a-good-understanding-of-the-technical-landscape'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporation-what-to-do-next'
-- text: Resources
-  href: '#resources'
 ---
 
 The partner’s technical landscape will impact how you plan for the future “to be” state.  You will want to work with your engineering lead to ensure that you have a solid understanding of your partner’s current systems and processes, and the implications for defining a path forward.  Understanding the technology they’re currently using and their interdependencies will help your team identify factors that complicate or constrain your options.  Understanding their security and privacy requirements and the processes they rely on to remain in compliance will help your team plan ahead and identify opportunities to “shift security left” to increase efficiency.  And understanding the resources and skill sets they have available will allow you, your engineer, and your acquisitions lead to consider strategies for maintenance and sustainability.  
@@ -38,7 +29,7 @@ Technical discovery will typically be led by engineering, but product managers s
 
 - Conduct an assessment of the partner’s DevSecOps maturity to understand which practices and processes are understood and implemented, and which will need to be introduced.
 
-- Discuss ATO implications with the OCIO and CSSO to assess its possibility.
+- Discuss ATO implications with the OCIO and CISO to assess its possibility.
 
 - Consider implementing a “Hello World” prototype to validate the path to production.
 

@@ -4,26 +4,19 @@ title: Develop a strategy
 permalink: /define/strategy/
 sidenav: define
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-a-good-strategy'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporation-what-to-do-next'
 ---
 
 Once you have a vision, you need to align on how to realize it. It’s helpful to think about what elements to consider in your strategy and how they may relate to one another.
 
 ## Considerations: A good strategy...
 
-- Clearly articulates the short-term and long-term goals and how they will help the partner achieve their vision.
+- Clearly articulates the short-term and long-term goals and how they will help the partner achieve their vision
 
-- Explains the value proposition of the recommended approach and the tradeoffs associated with alternatives.
+- Explains the value proposition of the recommended approach and the tradeoffs associated with alternatives
 
-- Has realistic technology maintenance and staffing implications for the partner.
+- Has realistic technology maintenance and staffing implications for the partner
 
-- Is developed with input from subject matter experts from the project team and partner and ensures that stakeholders are aligned and prepared to execute on the strategy.
+- Is developed with input from subject matter experts from the project team and partner and ensures that stakeholders are aligned and prepared to execute on the strategy
 
 ## Activities: How to get there
 

@@ -1,5 +1,5 @@
 primary:
-  - text: Welcome
+  - text: About this guide
     href: /
   - text: Discover the current state
     href: /discover/
@@ -10,7 +10,13 @@ primary:
   - text: Enable partners
     href: /partners/
 
+about:
+    - text: About this guide
+      href: '#about-this-guide'
+
 discover:
+    - text: Discover the current state
+      href: /discover/
     - text: Understand users and their 'as is' process
       href: /discover/users/
     - text: Understand your stakeholders
@@ -20,15 +26,9 @@ discover:
     - text: Understand the regulatory landscape
       href: /discover/compliance/
 
-deliver:
-    - text: Build the product
-      href: /deliver/build/
-    - text: Collaborate and communicate
-      href: /deliver/collaborate/
-    - text: Measure success
-      href: /deliver/measure/
-
 define:
+      - text: Define the future state
+        href: /define/
       - text: Define the problem
         href: /define/problem/
       - text: Create a vision
@@ -38,12 +38,24 @@ define:
       - text: Craft a roadmap
         href: /define/roadmap/
 
+deliver:
+    - text: Deliver the "right" way
+      href: /deliver/
+    - text: Build the product
+      href: /deliver/build/
+    - text: Collaborate and communicate
+      href: /deliver/collaborate/
+    - text: Measure success
+      href: /deliver/measure/
+
 partners:
+        - text: Enable partners
+          href: /partners/
         - text: Develop product leadership capacity
           href: /partners/capacity/
         - text: Coach the product owner
           href: /partners/coach/
-        - text: Working with the vendor
+        - text: Work with the vendor
           href: /partners/vendor/
         - text: Plan for the transition
           href: /partners/transition/

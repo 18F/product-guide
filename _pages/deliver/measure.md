@@ -4,15 +4,6 @@ title: Measure success
 permalink: /deliver/measure/
 sidenav: deliver
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-what-it-looks-like-to-do-this-well'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporation-what-to-do-next'
-- text: Resources
-  href: '#resources'
 ---
 We don’t just deliver exceptional digital services; we also aim to strengthen government technology practices in ways that last beyond our formal partnerships. How do we know that we are delivering on those goals as we build?
 
@@ -23,7 +14,8 @@ Interpreting metrics throughout the project can be tricky (and subjective). Howe
 ## Considerations: What it looks like to do this well
 
 - Goals, outcomes, and targets have appropriate, realistic measures indicating how we’ll know when they’re met.
-The team is tracking both product success AND team success.
+
+- The team is tracking both product success AND team success.
 
 - Metrics are used to forecast and adjust the trajectory of the project.
 
@@ -40,11 +32,3 @@ The team is tracking both product success AND team success.
 ## Incorporation: What to do next
 
 - Periodically reevaluate your prioritized backlog, roadmap, and strategy based on the results of your measurements to ensure you’re on a path that will deliver good value to users.
-
-## Resources
-
-- Analytics suites like TTS’s [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/) can facilitate collecting activity and user data at scale
-
-- Continuously user test with delivery cadences, report out verbatims (especially sound bites or video clips)
-
-- Leverage PRA-approved feedback forms such as [Touchpoints](https://touchpoints.digital.gov/) for continuous data collection, leveraging data and verbatims to report out on progress

@@ -4,15 +4,6 @@ title: Understand users and their ‘as-is’ process
 permalink: /discover/users/
 sidenav: discover
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-a-good-understanding-of-the-users'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporation-what-to-do-next'
-- text: Resources
-  href: '#resources'
 ---
 
 Many different people may be impacted by the outcome of your work.  Being clear about who you are focused on helping will inform your solution and strategy.  Understanding who you are solving a problem for is also important for creating a user-centric mindset with your team and building empathy and motivation for your work.  If you have a design lead on your team, they will likely lead this work, but the entire team should be closely involved.
@@ -27,7 +18,7 @@ Your partners likely have an incomplete view of the current state or what their 
 
 - Defines the key users and consumers of the current process
 
-- Empathizes with their context, day to day activities, objectives, and goals
+- Empathizes with their context of day-to-day activities, objectives, and goals
 
 - Describes the key steps and activities in their current process and identifies pain points
 
@@ -49,7 +40,7 @@ Your partners likely have an incomplete view of the current state or what their 
 
 - Debrief after each session and adjust your research plan as needed.
 
-- Validate qualitative findings with quantitative data when possible, while being mindful of PRA regulations when gathering data from the public.
+- Validate qualitative findings with quantitative data when possible, while being mindful of Paperwork Reduction Act (PRA) regulations when gathering data from the public.
 
 - Ask your partner if there have been any previous efforts in this area, and seek out any resulting reports, findings, or raw data.
 
@@ -69,9 +60,11 @@ Your partners likely have an incomplete view of the current state or what their 
 
 - [How to conduct user research [1]](https://methods.18f.gov/): 18F Methods provide instruction on several different research activities to consider, including [interviews](https://methods.18f.gov/stakeholder-and-user-interviews), [contextual inquiries](https://methods.18f.gov/contextual-inquiry), [heuristic evaluation](https://methods.18f.gov/heuristic-evaluation), and more.
 
-- [How to synthesize user research](https://methods.18f.gov/): 18F Methods provide instructions on several different ways to tell users’ stories, including [journey maps](https://methods.18f.gov/journey-mapping), [user scenarios](https://methods.18f.gov/user-scenarios), [story boards](https://methods.18f.gov/storyboarding), and [task flow analysis](https://methods.18f.gov/decide/task-flow-analysis/).
+- [How to conduct user research [2]](https://handbook.tts.gsa.gov/research-guidelines/): Guidelines on how research is done at TTS, including informing and getting consent, and managing Personally Identifiable Information (PII).
 
-- Examples of user journeys: [Example 1](https://docs.google.com/drawings/d/1SqxnC-smn2nE7tCk3_79YpPH5XlcltKPN3nsLf8F6PU/edit), Example 2 ([detailed](https://app.mural.co/t/gsa6/m/gsa6/1544219817755/29fd4fac4a9412648ea7e71dc0576e3eab36cd74), [summary](https://docs.google.com/presentation/d/1G2jx7adxkDifD_wihWD3Ak1xnxH0ePQVJWH6RL7ibQs/edit#slide=id.g4e82d6a821_2_101))
+- [How to synthesize user research](https://methods.18f.gov/): 18F Methods provide instructions on several different ways to tell users’ stories, including [journey maps](https://methods.18f.gov/journey-mapping), [user scenarios](https://methods.18f.gov/user-scenarios), [storyboards](https://methods.18f.gov/storyboarding), and [task flow analysis](https://methods.18f.gov/decide/task-flow-analysis/).
+
+- Examples of user journeys: [Example 1](https://docs.google.com/drawings/d/1SqxnC-smn2nE7tCk3_79YpPH5XlcltKPN3nsLf8F6PU/edit), Example 2 (<a href="https://app.mural.co/t/gsa6/m/gsa6/1611637245217/2d6ef2c9a78cdc2849c07edaf26d855381f50975" class="private-link">detailed</a>, [summary](https://docs.google.com/presentation/d/1G2jx7adxkDifD_wihWD3Ak1xnxH0ePQVJWH6RL7ibQs/edit#slide=id.g4e82d6a821_2_101))
 
 - [How to share user research](https://18f.gsa.gov/2018/02/06/getting-partners-on-board-with-research-findings/): How to present findings to your partner and allow room for reaching consensus before making recommendations.
 

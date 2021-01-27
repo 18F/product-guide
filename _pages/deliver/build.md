@@ -4,16 +4,9 @@ title: Build the product
 permalink: deliver/build/
 sidenav: deliver
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-what-it-looks-like-when-this-is-done-well'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporation-what-to-do-next'
 ---
 
-You will be working on distributed teams comprised of designers, engineers, researchers, policy experts, contracting experts and, frequently, agency partners. You are tasked with ‘leading from within’ (you are a member of the team and everyone is on equal footing)—you must provide direction to the team so that they are focused on the right priorities and feel empowered and excited to build the right solution. The vision and strategy will set initial direction and give the team a north star, and you will help lead the team to deliver in that direction.
+You will be working on distributed teams comprised of designers, engineers, researchers, policy experts, contracting experts and, frequently, agency partners. As a product manager, you are responsible for ‘leading from within’ (you are a member of the team and everyone is on equal footing), and you must provide direction to the team so that they are focused on the right priorities and feel empowered and excited to build the right solution. The vision and strategy will set initial direction and give the team a north star, and you will help lead the team to deliver in that direction.
 
 ## Considerations: What it looks like when this is done well
 
@@ -37,7 +30,7 @@ You will be working on distributed teams comprised of designers, engineers, rese
 
 - Leverage time-boxed spikes (technical or design investigations) for exploration into areas of uncertainty.
 
-- Have a planning meeting with your team and Product Owner every sprint where you clarify, prioritize, and estimate the work (eg. stories, spikes, defects, tasks) the team will commit to completing in the upcoming sprint.
+- Have a planning meeting with your team and Product Owner every sprint where you clarify, prioritize, and estimate the work (e.g. stories, spikes, defects, tasks) the team will commit to completing in the upcoming sprint.
 
 - Evaluate work as it is completed to make sure it meets the user story acceptance criteria.
 

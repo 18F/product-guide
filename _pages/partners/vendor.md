@@ -1,18 +1,9 @@
 ---
 layout: post
-title: Working with the vendor
+title: Work with the vendor
 permalink: /partners/vendor/
 sidenav: partners
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-what-it-looks-like-when-this-is-done-well'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporation-what-to-do-next'
-- text: Resources
-  href: '#resources'
 ---
 It is common for partners to not have the capacity to support products with in-house employees or contractors. In that case they either have an existing agreement with a vendor to build and support their products or will need to seek one. In some cases, these vendor relationships have lasted for years or even decades and with them practices and processes both good and bad. Your role is not to manage the relationship between the partner and the vendor, this is illegal AND not sustainable. As you advise the partner on product leadership, your role is to help build trust and good working practices between the parties as they oversee and manage the vendor’s work.
 
@@ -58,18 +49,14 @@ If 18F is brought in to help a partner that has an existing relationship with a 
 
 ## Resources
 
-- [Vendor onboarding [1]](https://app.mural.co/t/gsa6/m/gsa6/1578338540676/e6f89bd15d16746f102df059df47868473ec0de0): An exercise to identify what information needs to be shared and with who to successfully onboard a vendor.
+- <a href="https://app.mural.co/t/gsa6/m/gsa6/1611637592630/fa9cddf94e1bc4f52a4676f59401a304c8ec8b2f" class="private-link">Vendor onboarding [1]</a>: An exercise to identify what information needs to be shared and with whom to successfully onboard a vendor.
 
-- [Vendor onboarding [2]](https://app.mural.co/t/gsa6/m/gsa6/1574798005773/6d90c683f398629df8d9): An exercise to collect feedback about what's going well and what questions remain as a project goes from preparing a procurement to onboarding a vendor to disengaging with 18F.
+- <a href="https://app.mural.co/t/gsa6/m/gsa6/1611637739398/6f7525bce81f9cf99b17f3bd4c582e5c5d8c2446" class="private-link">Vendor onboarding [2]</a>: An exercise to collect feedback about what's going well and what questions remain as a project goes from preparing a procurement to onboarding a vendor to disengaging with 18F.
 
 - [18F QASP Template](https://docs.google.com/document/d/1dzD5-Z85rxl_NS4xt9kWG3-Gmmr_wrp5Grfm6FIrmgU/edit): 18F’s foundational criteria for monitoring the quality of a vendor’s deliverables and performance.
 
-- [QASP Example [1]](https://github.com/18F/tdrs-app-rfq/blob/main/Final-RFQ/FINAL-TDRS-software-development-RFQ.md#32-quality-assurance-surveillance-plan-qasp): QASP from 18F’s engagement with Office of Family Assistance on the TANF Data Reporting System (TDRS).
+- [QASP Example [1]](https://derisking-guide.18f.gov/qasp/): QASP criteria from 18F’s de-risking guide.
 
-- [Vendor onboarding [1]](https://app.mural.co/t/gsa6/m/gsa6/1578338540676/e6f89bd15d16746f102df059df47868473ec0de0): An exercise to identify what information needs to be shared and with who to successfully onboard a vendor.
+- [Acquistions toolkit](https://drive.google.com/drive/folders/1rj0lYJVjhClDQLLf-Hua_Xr6YtJAAN_X): Guidance and templates on acquisitions, contracting, and procurement.
 
-- [Vendor onboarding [2]](https://app.mural.co/t/gsa6/m/gsa6/1574798005773/6d90c683f398629df8d9): An exercise to collect feedback about what's going well and what questions remain as a project goes from preparing a procurement to onboarding a vendor to disengaging with 18F.
-
-- [What are the responsibilities](https://drive.google.com/drive/folders/1rj0lYJVjhClDQLLf-Hua_Xr6YtJAAN_X): Guidance and templates on acquisitions, contracting, procurement.
-
-- [Best practices and risks](https://app.mural.co/t/gsa6/m/gsa6/1600964689810/70cb64bacf6446acb6a9c131ea16a43795181a33): A mural exercise of common best practices and risks that exist around post-award management and vendor relationships.
+- <a href="https://app.mural.co/t/gsa6/m/gsa6/1611637931895/f601104204b8159db7364ca7b97e807b19b06b84" class="private-link">Post-award management</a>: Common best practices and risks that exist around post-award management and vendor relationships.

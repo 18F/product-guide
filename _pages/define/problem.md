@@ -4,15 +4,6 @@ title: Define the problem
 permalink: /define/problem/
 sidenav: define
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-a-good-problem-statement'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporation-what-to-do-next'
-- text: Resources
-  href: '#resources'
 ---
 
 It's critical that you deeply understand the problem you're solving. This means that once you understand the problem, you are comfortable exploring, evaluating, and pivoting to different solutions.
@@ -22,15 +13,15 @@ Just as importantly, you need to bring everyone along with you. Your partners an
 
 ### Considerations: A good problem statement...
 
-- Defines the overlying problem.
+- Defines the overlying problem
 
-- Surfaces the major challenges, focusing on the pain points that are most frequent, urgent, or encumbering.
+- Surfaces the major challenges, focusing on the pain points that are most frequent, urgent, or encumbering
 
-- Articulates the impact of the problem, including who the problem affects and how much it affects them.
+- Articulates the impact of the problem, including who the problem affects and how much it affects them
 
-- Informs decisions about solutions without prescribing a specific solution.
+- Informs decisions about solutions without prescribing a specific solution
 
-- Inspires key stakeholders to commit to solving the problem.
+- Inspires key stakeholders to commit to solving the problem
 
 
 ### Activities: How to get there

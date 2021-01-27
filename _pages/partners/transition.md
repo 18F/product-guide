@@ -4,17 +4,8 @@ title: Plan for the transition
 permalink: /partners/transition/
 sidenav: partners
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-what-it-looks-like-when-this-is-done-well'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporation-what-to-do-next'
-- text: Resources
-  href: '#resources'
 ---
-Partners will need to handle the entire gamut of activities associated with product delivery once we disengage. They need to own the product vision, support users of the system, deliver product updates by themselves, develop a plan for product dependencies like infrastructure, ATO, and third party integrations, and understand how to hire and manage agile-oriented vendors. The entire team should be thinking about the transition from the start and advocate as early as possible for the people and resources critical to success as the agreements process typically takes 3-6 months to execute. Work with your team to develop a plan to transition ownership fully to the partner, and identify transition risks and actions to mitigate them.
+Partners will need to handle the entire gamut of activities associated with product delivery once we disengage. They need to own the product vision, support users of the system, deliver product updates by themselves, develop a plan for product dependencies like infrastructure, ATO, and third party integrations, and understand how to hire and manage agile-oriented vendors. The entire team should be thinking about the transition from the start, with a more concerted effort to identify and address gaps as you get closer to disengaging. If the partner will be hiring a vendor, the team should advocate as early as possible for the people and resources critical to success as the agreements process typically takes 3-6 months to execute. Work with your team to develop a plan to transition ownership fully to the partner, and identify transition risks and actions to mitigate them.
 
 ## Considerations: What it looks like when this is done well
 
@@ -28,7 +19,7 @@ Partners will need to handle the entire gamut of activities associated with prod
 
 - The partner has a long-term staffing strategy to appropriately support and staff the product when the 18F team leaves, either with people internal to the partner organization or with contractors/vendors.
 
-- If the partner is working with a [vendor]({{site.baseurl}}/partners/vendor/), they have established trust between the parties and good working practices to oversee and manage the vendor’s work.
+- If the partner is [working with a vendor]({{site.baseurl}}/partners/vendor/), they have established trust between the parties and good working practices to oversee and manage the vendor’s work.
 
 ## Activities: How to get there
 
@@ -54,7 +45,7 @@ Transitions are the responsibility of the entire team, and you should work toget
 
 - [Approach to transformation](https://docs.google.com/document/d/1JjxBDvj_V0YyKb7hZkwjkOJAgU_IDYtCjF7YFhsjNMw/edit#): A description of how we intentionally transfer our practices as part of our work with agencies.
 
-- [Transition goals](https://docs.google.com/document/d/1hkfoLtPJTmdRrlpMX3OTa-xOyue2_sFZoa1bQJp1VTQ/edit#heading=h.fdq3wrb19zea): A framework you can use to assess the partner’s current digital maturity or readiness and develop transition goals (alternative formats here and here).
+- [Transition goals](https://docs.google.com/document/d/1hkfoLtPJTmdRrlpMX3OTa-xOyue2_sFZoa1bQJp1VTQ/edit#heading=h.fdq3wrb19zea): A framework you can use to assess the partner’s current digital maturity or readiness and develop transition goals (alternative formats [here](https://docs.google.com/document/d/1C-bA_pF_eWl1AloCP0CWMHAgmHcs_TfE5YfkJlvZnNU/edit) and [here](https://docs.google.com/forms/d/1ISSm0hi45JZqUzNEqC8bFr78RaZA0shausvMM-tBiaw/viewform?edit_requested=true)).
 
 - [Transition planning](https://docs.google.com/document/d/1SuwO9K3135yMz3mYWDTiyPLItXjooMffRgd6LXrJi6s/edit): A collection of transition plans from prior engagements.
 

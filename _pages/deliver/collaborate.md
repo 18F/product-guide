@@ -4,13 +4,6 @@ title: Collaborate and communicate
 permalink: /deliver/collaborate/
 sidenav: deliver
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-what-it-looks-like-when-this-is-done-well'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporation-what-to-do-next'
 ---
 
 When building and shipping, it’s important to balance the input coming from the various subject matter experts on your team. Your teammates need to be heard, and you need their expertise. You will balance their voices and use that perspective to find a path that minimizes technical and design debt. When you have a clear idea how to proceed, make sure the team understands why. If there are gray areas, embrace them and leverage the team’s expertise to get through them. The team should always know where they are going and understand why any trade-offs are being made. You should not hide trade-offs or tough decisions from your teammates, even when there is no direct action for them to take.
@@ -51,4 +44,4 @@ When building and shipping, it’s important to balance the input coming from th
 
 - Proactively look for signs of team or stakeholder misalignment and work to remedy the situation.
 
-- Coach the [partner]({{site.baseurl}}/partners/coach/) to gradually take over more team management and communication responsibilities.
+- [Coach the partner]({{site.baseurl}}/partners/coach/) to gradually take over more team management and communication responsibilities.

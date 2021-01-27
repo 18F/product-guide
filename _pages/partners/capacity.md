@@ -4,22 +4,13 @@ title: Develop product leadership capacity
 permalink: /partners/capacity/
 sidenav: partners
 sticky_sidenav: true
-subnav:
-- text: Considerations
-  href: '#considerations-what-it-look-like-when-this-is-done-well'
-- text: Activities
-  href: '#activities-how-to-get-there'
-- text: Incorporation
-  href: '#incorporate-what-to-do-next'
-- text: Resources
-  href: '#resources'
 ---
 
-Most customized software development in government is performed by vendors, **but our partners must not outsource product leadership**. Software work needs to be aligned with other program and policy work being done, and decisions about which problem to solve first or whether to emphasize budget, timeline, or quality, impact the agency’s ability to realize its mission. These are decisions that need to be owned by your partner.
+Most customized software development in government is performed by vendors, but our partners must not outsource product leadership. Software work needs to be aligned with other program and policy work being done. Decisions about which problem to solve first, or whether to emphasize budget, timeline, or quality, all impact the agency’s ability to realize its mission. These are decisions that need to be owned by your partner.
 
-Developing strong product leadership and management capacity with your partners can take some time. As early as possible, help the team understand the role of product owners in overseeing the design and implementation of a digital product: balancing users, stakeholders, and business needs, defining and prioritizing work, and measuring and communicating outcomes. Help the partner establish this role in-house, and do what you can to ensure that the entire team is empowered to execute on the vision and strategy.
+Developing strong product leadership and management capacity with your partners can take time. As early as possible, help the team understand the role of product owners in overseeing the design and implementation of a digital product. This includes balancing users, stakeholders, and business needs; defining and prioritizing work; and measuring and communicating outcomes. Help the partner establish this role in-house, and do what you can to ensure that the entire team is empowered to execute on the vision and strategy.
 
-## Considerations: What it look like when this is done well
+## Considerations: What it looks like when this is done well
 
 - Partners and their executive leadership can articulate the role played by product owners and product managers in developing products, the difference between product management and project management, and the skills to seek out when filling these roles.
 
@@ -30,8 +21,6 @@ Developing strong product leadership and management capacity with your partners 
 - The product owner owns and advocates for the product vision and aligns stakeholders.
 
 - The product owner understands that they're wearing the "hat of the user" and advocates on the user’s behalf.
-
-- The product owner is proactively asking questions in order to understand the root cause of a problem or the implications of a solution.
 
 ## Activities: How to get there
 
@@ -47,7 +36,7 @@ Developing strong product leadership and management capacity with your partners 
 
 ## Incorporation: What to do next
 
-- Coach the product owner to help them develop their product management skills.
+- [Coach the product owner]({{site.baseurl}}/partners/coach/) to help them develop their product management skills.
 
 ## Resources
 
