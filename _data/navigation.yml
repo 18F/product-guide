@@ -5,7 +5,7 @@ primary:
     href: /discover/
   - text: Define the future state
     href: /define/
-  - text: Deliver the "right" way
+  - text: Deliver the “right” way
     href: /deliver/
   - text: Enable partners
     href: /partners/
@@ -17,7 +17,7 @@ about:
 discover:
   - text: Discover the current state
     href: /discover/
-  - text: Understand users and their 'as is' process
+  - text: Understand users and their ‘as is’ process
     href: /discover/users/
   - text: Understand your stakeholders
     href: /discover/stakeholders/
@@ -39,7 +39,7 @@ define:
     href: /define/roadmap/
 
 deliver:
-  - text: Deliver the "right" way
+  - text: Deliver the “right” way
     href: /deliver/
   - text: Build the product
     href: /deliver/build/
