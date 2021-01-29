@@ -1,15 +1,18 @@
 ---
+layout: post
 title: Understand the regulatory landscape
 permalink: /discover/compliance/
+sidenav: discover
+sticky_sidenav: true
 ---
 
 Laws, regulations, and policies may obligate or constrain what your partners are able to do.  You are likely to be told “that’s the way we have to do it” or “we’re not allowed to do it any other way.”  It will be important for you to understand what is truly legally required versus what is “just the way it’s always been done” so you can help your partners stay in compliance while also cutting through unnecessary layers of bureaucracy.    
 
 ## Considerations: A good understanding of the regulatory landscape...
 
-- Defines the legal requirements that constrain the “as-is” process.
+- Defines the legal requirements that constrain the “as-is” process
 
-- Distinguishes between requirements and customs.
+- Distinguishes between requirements and customs
 
 ## Activities: How to get there
 
@@ -27,4 +30,4 @@ Laws, regulations, and policies may obligate or constrain what your partners are
 
 - Report out findings to stakeholders to help them understand their constraints and opportunities.
 
-- Draw on your findings to help your partner define a path forward to achieve their desired [future state]({{site.baseurl}}/future/).
+- Draw on your findings to help your partner define a path forward to achieve their desired [future state]({{site.baseurl}}/define/).

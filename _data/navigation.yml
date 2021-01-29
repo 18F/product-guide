@@ -1,43 +1,61 @@
 primary:
-  - text: Welcome
+  - text: About this guide
     href: /
   - text: Discover the current state
-    links:
-      - text: Overview
-        href: /discover/
-      - text: Understand users and their 'as is' process
-        href: /discover/users/
-      - text: Understand your stakeholders
-        href: /discover/stakeholders/
-      - text: Understand the technical landscape
-        href: /discover/technical/
-      - text: Understand the regulatory landscape
-        href: /discover/compliance/
+    href: /discover/
   - text: Define the future state
-    links:
-      - text: Overview
-        href: /future/
-      - text: Define the problem
-        href: /future/problem/
-      - text: Create the vision
-        href: /future/vision/
-      - text: Develop a strategy
-        href: /future/strategy/
-      - text: Craft a roadmap
-        href: /future/roadmap/
-  - text: Deliver the "right way"
-    links:
-      - text: Overview
-        href: /deliver/
-      - text: Build a product
-        href: /deliver/build/
-      - text: Collaborate and communicate
-        href: /deliver/collaborate/
-      - text: Measure success
-        href: /deliver/measure/
+    href: /define/
+  - text: Deliver the “right” way
+    href: /deliver/
   - text: Enable partners
-    links:
-      - text: Overview
-        href: /partners/
-      - text: Enable partners for long-term success
-        href: /partners/enable/
+    href: /partners/
+
+about:
+  - text: About this guide
+    href: '#about-this-guide'
+
+discover:
+  - text: Discover the current state
+    href: /discover/
+  - text: Understand users and their ‘as is’ process
+    href: /discover/users/
+  - text: Understand your stakeholders
+    href: /discover/stakeholders/
+  - text: Understand the technical landscape
+    href: /discover/technical/
+  - text: Understand the regulatory landscape
+    href: /discover/compliance/
+
+define:
+  - text: Define the future state
+    href: /define/
+  - text: Define the problem
+    href: /define/problem/
+  - text: Create a vision
+    href: /define/vision/
+  - text: Develop a strategy
+    href: /define/strategy/
+  - text: Craft a roadmap
+    href: /define/roadmap/
+
+deliver:
+  - text: Deliver the “right” way
+    href: /deliver/
+  - text: Build the product
+    href: /deliver/build/
+  - text: Collaborate and communicate
+    href: /deliver/collaborate/
+  - text: Measure success
+    href: /deliver/measure/
+
+partners:
+  - text: Enable partners
+    href: /partners/
+  - text: Develop product leadership capacity
+    href: /partners/capacity/
+  - text: Coach the product owner
+    href: /partners/coach/
+  - text: Work with the vendor
+    href: /partners/vendor/
+  - text: Plan for the transition
+    href: /partners/transition/

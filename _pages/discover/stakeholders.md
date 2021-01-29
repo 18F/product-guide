@@ -1,11 +1,14 @@
 ---
+layout: post
 title: Understand your key stakeholders
 permalink: /discover/stakeholders/
+sidenav: discover
+sticky_sidenav: true
 ---
 
-Many different people may have an interest in the outcome of your work or be able to affect the project’s direction or success.  Determining who may be the key champions or skeptics of your work, and what their interests are, will allow you to navigate organization dynamics and build consensus.
+Many different people may have an interest in the outcome of your work or be able to affect the project’s direction or success. Determining who may be the key champions or skeptics of your work, and what their interests are, will allow you to navigate organization dynamics and build consensus.
 
-Sometimes your partner will have a good understanding of who these stakeholders are, but sometimes they may not be able to immediately articulate who can impact the work, and other times it may seem like everyone is a stakeholder.  In addition, your partner may be reluctant to share information or may not realize what information is important to share with you.  By clarifying the underlying dynamics and motivations at play, you will be able to help your partner engage their stakeholders more strategically.  To do so, it will be important to build rapport with your partner and facilitate open conversations to create an environment of trust.   
+Sometimes your partner will have a good understanding of who these stakeholders are, but sometimes they may not be able to immediately articulate who can impact the work, and other times it may seem like everyone is a stakeholder. In addition, your partner may be reluctant to share information or may not realize what information is important to share with you. By clarifying the underlying dynamics and motivations at play, you will be able to help your partner engage their stakeholders more strategically. To do so, it will be important to build rapport with your partner and facilitate open conversations to create an environment of trust.
 
 ## Considerations: A good understanding of stakeholders…
 
@@ -25,7 +28,7 @@ Sometimes your partner will have a good understanding of who these stakeholders 
 
 - Identify who are your allies, skeptics, and bystanders, and what they care most about.
 
-- Uncover additional stakeholders and relationships by reviewing org charts and a history of recent org changes.  
+- Uncover additional stakeholders and relationships by reviewing org charts and a history of recent org changes.
 
 - Try to create your own org chart to map your project’s key stakeholders, levels of authority, and dependencies.
 
@@ -39,11 +42,11 @@ Sometimes your partner will have a good understanding of who these stakeholders 
 
 - Work with your partner to create a stakeholder engagement plan that tailors the content and frequency of your [communications]({{site.baseurl}}/deliver/collaborate) to their needs and interests.
 
-- Incorporate your stakeholders’ needs and interests when defining the [future state]({{site.baseurl}}/future/).
+- Incorporate your stakeholders’ needs and interests when defining the [future state]({{site.baseurl}}/define/).
 
 ## Resources
 
-- [How to identify stakeholders [1]](https://app.mural.co/t/gsa6/m/gsa6/1603921593244/a37e126788a75cbf3aad53c52cecbf266bdecd41): A template for a facilitated stakeholder mapping exercise to identify different stakeholders and how you plan to engage them.
+- <a href="https://app.mural.co/t/gsa6/m/gsa6/1603921593244/a37e126788a75cbf3aad53c52cecbf266bdecd41" class="private-link">How to identify stakeholders[1]</a>: A template for a facilitated stakeholder mapping exercise to identify different stakeholders and how you plan to engage them.
 
 - [How to identify stakeholders [2]](https://docs.google.com/presentation/d/10x0Lk9FywbNDL8_hGfeNqGfL3yJMhO8S79-F4tanB3w/edit#slide=id.p): How to identify who your executive stakeholders are and how to communicate with them.
 
