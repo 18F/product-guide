@@ -10,8 +10,7 @@ A vision statement acts as a north star that motivates and guides the team, conv
 
 While you can undoubtedly come up with a great vision for the project all by yourself, it’s not sustainable—because you’re going to walk away from this project and leave it in your partner’s hands. Our goal is to help our partners grow their internal practices, and teaching them how to set a strong vision is an important step on that journey. You will revisit and may adjust your vision at times as you learn more, but maintaining a clear, inclusive vision is critical to product success.
 
-
-### Considerations: A good vision statement...
+## Considerations: A good vision statement...
 
 - Is clear, concise, informative, and inspirational
 
@@ -27,7 +26,7 @@ While you can undoubtedly come up with a great vision for the project all by you
 
 - Has buy-in and commitment from the development team, executive sponsors, and any other key participants
 
-### Activities: How to get there
+## Activities: How to get there
 
 - Connect the vision to the problem statement to articulate the problem you are solving and why it is meaningful.
 
@@ -37,8 +36,7 @@ While you can undoubtedly come up with a great vision for the project all by you
 
 - Identify measurable outcomes that communicate the positive impact of the intended changes and help you determine if you’re on the right track.
 
-
-### Incorporation: What to do next
+## Incorporation: What to do next
 
 - Document the vision and keep it visible and central. Refer to it regularly.
 
