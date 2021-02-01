@@ -33,7 +33,6 @@ document.addEventListener(
         "meet.gsa.gov",
         "pages-internal.18f.gov",
         "tock.18f.gov",
-        "app.mural.co",
       ],
     });
   },
