@@ -20,9 +20,10 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://product-guide.18f.gov" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 18F
-github_username:  18F
+github_username: 18F
 
-include: ['_pages']
+include: ["_pages"]
+private_eye: true
 
 # Build settings
 markdown: kramdown
@@ -41,14 +42,13 @@ search_site_handle: product-guide.18f.gov
 
 scripts:
   - assets/uswds/js/uswds.min.js
-  - javascripts/private-eye.js
   - javascripts/application.js
 
 defaults:
   - scope:
       path: ""
     values:
-      layout: post  
+      layout: post
 
 # This excludes files from the Jekyll build. In other words, these files will be in the GitHub repo, but not on the production site.
 exclude:
