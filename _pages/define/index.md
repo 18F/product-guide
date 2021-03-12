@@ -5,4 +5,5 @@ permalink: /define/
 sidenav: define
 sticky_sidenav: true
 ---
-We try hard at 18F to cultivate and follow product management best practices so that we can better deliver value to our clients and to the organization. We ensure that a product vision is set, and we bridge the gap between high level vision and execution. We will do this work with our partners so that they can sustain the product effort after we leave.
+
+We try hard at 18F to cultivate and follow product management best practices so that we can better deliver value to our clients and to the organization. Grounded in an understanding of our partner’s and users’ needs, we ensure that a product vision is set that inspires and aligns everyone around the problem we’re focused on solving and the difference we hope to make. We develop a strategy, goals, and plan of action to bridge the gap between high-level vision and execution. We do this work with our partners so that they are the owners of the vision and can sustain the product effort after we leave.
