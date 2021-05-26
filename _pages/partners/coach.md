@@ -5,6 +5,7 @@ permalink: /partners/coach/
 sidenav: partners
 sticky_sidenav: true
 ---
+
 Because product management practices are new to government, one of your most important roles is to coach the partner product owner (PO) so that they are equipped with the skills they need to carry on once the engagement ends. Start product management coaching from day zero. While it is not necessary or realistic to have perfect mastery of every skill set, work with your partners to develop specific strategies and trainings to fill gaps and mitigate risks, and plot these into your roadmap.
 
 ## Considerations: What it looks like when this is done well
