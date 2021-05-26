@@ -62,7 +62,7 @@ GEM
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.2.4)
+    rexml (3.2.5)
     rouge (3.21.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
@@ -79,12 +79,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 4.0)
-  jekyll-feed (~> 0.6)
-  jekyll-redirect-from
-  jekyll-sitemap
+  jekyll (~> 4.1, >= 4.1.1)
+  jekyll-feed (~> 0.15, >= 0.15.0)
+  jekyll-redirect-from (>= 0.16.0)
+  jekyll-sitemap (>= 1.4.0)
   tzinfo-data
-  uswds-jekyll (~> 5.3)
+  uswds-jekyll (~> 5.3, >= 5.3.0)
 
 BUNDLED WITH
    2.1.4
