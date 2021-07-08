@@ -15,4 +15,4 @@ As a product manager at 18F, you may be put in a client-facing role to help a go
 
 ## Accessing Information in this Guide
 
-If you see a resource linked in this guide that is not public that you’d potentially be interested in, let us know by [opening an issue on the GitHub repo for this site](https://github.com/18F/product-guide/issues).
+If you see a resource linked in this guide that is not public that you’d potentially be interested in, let us know by [opening an issue on the GitHub repo for this site](https://github.com/18F/product-guide/issues). Not all assets linked in this guide may be suitable for public release, but we can review requests for materials to determine what is suitable.
