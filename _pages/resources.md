@@ -13,7 +13,7 @@ subnav:
     href: "#guides"
 ---
 
-Several resources are provided on specific topics within this guide to provide additional context, templates, and examples of doing the work. Some of these resources are available only to staff of GSA (General Services Administration) or TTS (Technology Transformation Services), and these are indicated by a <class="private-link">.
+Several resources are provided on specific topics within this guide to provide additional context, templates, and examples of doing the work. Some of these resources are available only to staff of GSA (General Services Administration) or TTS (Technology Transformation Services), and these are indicated by a lock icon (<span class="lock-icon"></span>).
 
 In addition to the resources provided in each section, here are more general resources related to product management at 18F that you may find helpful.
 
