@@ -12,7 +12,11 @@ primary:
 
 about:
   - text: About this guide
-    href: '#about-this-guide'
+    href: /
+  - text: License
+    href: /license/
+  - text: Resources
+    href: /resources/
 
 discover:
   - text: Discover the current state
