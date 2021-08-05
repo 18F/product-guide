@@ -24,18 +24,18 @@ In addition to the resources provided in each section, here are more general res
 
 ## General
 
-- [18F Handbook](https://handbook.tts.gsa.gov/)
-- [18F Methods](https://methods.18f.gov/)
-- [USDS Playbook](https://playbook.cio.gov/)
-- <a href="https://docs.google.com/document/d/19naJ8wgVo_hnv_nUy2WWyzH6DJwXXgenD0QpsZmOSe0/edit#" class="private-link">New Hire README</a>
-- <a href="https://airtable.com/shr6fVT6bvANRe5LI" class="private-link">18F Project Resources Library</a>
+- [18F / TTS Handbook](https://handbook.tts.gsa.gov/)
+- <a href="https://handbook.tts.gsa.gov/getting-started/">Getting started at TTS: Your first 90 days</a>
 - <a href="https://airtable.com/shru3CtqBATnV6zDP/tblcaK7gQ9d62Ll1p" class="private-link">18F Project Catalogue</a>
+- <a href="https://airtable.com/shr6fVT6bvANRe5LI" class="private-link">18F Project Resources Library</a>
+- [18F Methods](https://methods.18f.gov/)
 - [Checklist of requirements for federal government websites](https://digital.gov/resources/checklist-of-requirements-for-federal-digital-services/)
+- [USDS Playbook](https://playbook.cio.gov/)
 
 ## Guides
 
 - [Project Start Guide](https://docs.google.com/document/d/1jFGksReKrt2PY_QVe7fj1aOCcyjHlGPf5hkKgv7nuMA/edit?pli=1#)
-- [18F De-risking Government Technology](https://derisking-guide.18f.gov/)
+- [18F De-risking Government Technology Guide](https://derisking-guide.18f.gov/)
 - [18F User Experience Design Guide](https://ux-guide.18f.gov)
 - [18F Content Guide](https://content-guide.18f.gov/)
 - [TTS Engineering Guide Front-end practices](https://frontend.18f.gov/)
