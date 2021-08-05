@@ -4,13 +4,6 @@ title: Resources
 permalink: /resources/
 sidenav: about
 sticky_sidenav: true
-subnav:
-  - text: Product management in government
-    href: "#product-management-in-government"
-  - text: General
-    href: "#general"
-  - text: Guides
-    href: "#guides"
 ---
 
 Several resources are provided on specific topics within this guide to provide additional context, templates, and examples of doing the work. Some of these resources are available only to staff of GSA (General Services Administration) or TTS (Technology Transformation Services), and these are indicated by a lock icon (<span class="lock-icon"></span>).

@@ -4,11 +4,6 @@ title: License
 permalink: /license/
 sidenav: about
 sticky_sidenav: true
-subnav:
-  - text: No copyright
-    href: "#no-copyright"
-  - text: Other information
-    href: "#other-information"
 ---
 
 As a work of the federal government, this project is in the public domain within the United States.
