@@ -5,6 +5,7 @@ permalink: /partners/coach/
 sidenav: partners
 sticky_sidenav: true
 ---
+
 Because product management practices are new to government, one of your most important roles is to coach the partner product owner (PO) so that they are equipped with the skills they need to carry on once the engagement ends. Start product management coaching from day zero. While it is not necessary or realistic to have perfect mastery of every skill set, work with your partners to develop specific strategies and trainings to fill gaps and mitigate risks, and plot these into your roadmap.
 
 ## Considerations: What it looks like when this is done well
@@ -43,7 +44,9 @@ Because product management practices are new to government, one of your most imp
 
 ## Resources
 
-- <a href="https://app.mural.co/t/gsa6/m/gsa6/1541527303519/03f89a5368417be2a3de2042a45874413e2779b7" class="private-link">[Skills assessment and growth tracking [1]</a>: An exercise to map a partner’s starting maturity level for several target product management behaviors, identify activities to promote growth, and track their progress over time.
+- [Our coaching philosophy](https://18f.gsa.gov/2019/08/22/building-product-management-capacity-in-government-part-1/): More about our approach to developing product managers in government, including our model-pair-coach approach to product ownership.
+
+- <a href="https://app.mural.co/t/gsa6/m/gsa6/1541527303519/03f89a5368417be2a3de2042a45874413e2779b7" class="private-link">Skills assessment and growth tracking [1]</a>: An exercise to map a partner’s starting maturity level for several target product management behaviors, identify activities to promote growth, and track their progress over time.
 
 - [Skills assessment and growth tracking [2]](https://docs.google.com/document/d/1YDPU1EdtCtb4uSDF7ZAcjwv_LkZyVmnrRRdvyrMBJKo/edit): A list of responsibilities for a product owner, as well as success criteria for beginner, intermediate, and advanced levels.
 

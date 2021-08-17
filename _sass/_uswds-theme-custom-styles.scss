@@ -1,46 +1,51 @@
-
 //// 18F styles
 
 // Color
-$color-light:        color("cyan-10v"); // was #b3efff
-$color-bright:       color("cyan-30v"); // was #00cfff
-$color-medium:       color("primary");
-$color-dark:         color("primary-dark"); // was #1C304A
-$color-base:         color("primary-dark"); // was #1F2E4A
-$color-black:        color("black");
-$color-inverse:      color("white");
+$color-light: color("cyan-10v"); // was #b3efff
+$color-bright: color("cyan-30v"); // was #00cfff
+$color-medium: color("primary");
+$color-dark: color("primary-dark"); // was #1C304A
+$color-base: color("primary-dark"); // was #1F2E4A
+$color-black: color("black");
+$color-inverse: color("white");
 
 $color-bright-hover: color("accent-cool-dark");
 $color-medium-hover: color("blue-60");
 
-$color-gray-lightest: color("base-lightest"); // Adding bc used in our $border-light in this file.
-$color-gray-hover:    color("gray-2");
-$color-gray-divider:  color("gray-20");
-
-$color-gray-border:   color("base-dark");
-
+$color-gray-lightest: color(
+  "base-lightest"
+); // Adding bc used in our $border-light in this file.
+$color-gray-hover: color("gray-2");
+$color-gray-divider: color("gray-20");
+$color-gray-border: color("base-dark");
 $logo-size-lg: 3rem;
 $logo-size-md: 2rem;
 
 // Typography
-.usa-prose{
-  h1,h2,h3,h4,h5,h6 {
+.usa-prose {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     color: $color-dark;
   }
 
-  p, li {
+  p,
+  li {
     color: $color-base;
   }
 }
 .usa-list li,
-.usa-prose>ul li,
-.usa-prose>ol li {
+.usa-prose > ul li,
+.usa-prose > ol li {
   margin-bottom: units(0.5);
 }
-.usa-prose>ul li>ul,
-.usa-prose>ul li>ol,
-.usa-prose>ol li>ul,
-.usa-prose>ol li>ol {
+.usa-prose > ul li > ul,
+.usa-prose > ul li > ol,
+.usa-prose > ol li > ul,
+.usa-prose > ol li > ol {
   margin-top: units(1.5);
 }
 
@@ -56,21 +61,21 @@ a:hover {
 // Header
 .usa-nav .usa-current::after,
 .usa-header--extended .usa-current:hover::after,
-.usa-nav__primary>.usa-nav__primary-item > .usa-current:hover::after {
+.usa-nav__primary > .usa-nav__primary-item > .usa-current:hover::after {
   background-color: $color-bright;
   height: units(0.5);
 }
 
-.usa-nav__primary>.usa-nav__primary-item > .usa-current,
-.usa-nav__primary>.usa-nav__primary-item > a:hover {
+.usa-nav__primary > .usa-nav__primary-item > .usa-current,
+.usa-nav__primary > .usa-nav__primary-item > a:hover {
   color: $color-black;
 }
 
-.usa-nav__primary>.usa-nav__primary-item > a:hover {
+.usa-nav__primary > .usa-nav__primary-item > a:hover {
   background-color: $color-gray-lightest;
 }
 
-.usa-nav__primary>.usa-nav__primary-item > a:hover::after {
+.usa-nav__primary > .usa-nav__primary-item > a:hover::after {
   height: 0;
 }
 
@@ -154,7 +159,8 @@ code {
 }
 
 // Show Slack icon before Slack Links
-a[href^="https://gsa-tts.slack.com"]::before {
+a[href^="https://gsa-tts.slack.com"]::before
+{
   content: "";
   $size: units(4);
   width: $size;
@@ -166,8 +172,8 @@ a[href^="https://gsa-tts.slack.com"]::before {
   background-repeat: no-repeat;
   background-image: url("../../images/Slack_Mark.svg");
 }
-.usa-prose>ul.list-item--margin-bottom-extra>li,
-.usa-prose>ol.list-item--margin-bottom-extra>li {
+.usa-prose > ul.list-item--margin-bottom-extra > li,
+.usa-prose > ol.list-item--margin-bottom-extra > li {
   @include u-margin-bottom(1.5);
 }
 
@@ -176,15 +182,17 @@ a[href^="https://gsa-tts.slack.com"]::before {
     max-width: none;
   }
 
-  .usa-nav__primary>.usa-nav__primary-item {
+  .usa-nav__primary > .usa-nav__primary-item {
     @include u-font("ui", "xs");
   }
 
-  .usa-header--extended .usa-nav__primary-item>.usa-current::after {
+  .usa-header--extended .usa-nav__primary-item > .usa-current::after {
     background-color: $color-bright;
   }
 
-  .usa-header--extended .usa-nav__primary-item>.usa-nav__link:not(.usa-current):hover::after {
+  .usa-header--extended
+    .usa-nav__primary-item
+    > .usa-nav__link:not(.usa-current):hover::after {
     display: none;
   }
 }
@@ -212,7 +220,6 @@ a[href^="https://gsa-tts.slack.com"]::before {
   }
 }
 
-
 //// Footer (usa-anchor styles)
 
 // Fixing footer anchor to bottom
@@ -228,4 +235,9 @@ a[href^="https://gsa-tts.slack.com"]::before {
 }
 .usa-identifier {
   margin-top: auto;
+}
+
+// Displays lock icon only
+.lock-icon:after {
+  content: "\1F512";
 }

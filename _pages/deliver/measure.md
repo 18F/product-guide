@@ -5,6 +5,7 @@ permalink: /deliver/measure/
 sidenav: deliver
 sticky_sidenav: true
 ---
+
 We don’t just deliver exceptional digital services; we also aim to strengthen government technology practices in ways that last beyond our formal partnerships. How do we know that we are delivering on those goals as we build?
 
 Keep in mind that our partners may be very new to how we work and the transformations we want to instill. Metrics enable our partners to better visualize the value that we are delivering.
@@ -32,3 +33,9 @@ Interpreting metrics throughout the project can be tricky (and subjective). Howe
 ## Incorporation: What to do next
 
 - Periodically reevaluate your prioritized backlog, roadmap, and strategy based on the results of your measurements to ensure you’re on a path that will deliver good value to users.
+
+## Resources
+
+- Analytics suites like TTS’s [Digital Analytics Program (DAP)](https://digital.gov/guides/dap/) can facilitate collecting activity and user data at scale.
+
+- Leverage PRA-approved feedback forms such as [Touchpoints](https://touchpoints.digital.gov/) for continuous data collection, leveraging data and verbatims to report out on progress.
