@@ -8,15 +8,15 @@ assignees: ''
 ---
 
 **Background**
+_What should we consider when addressing this issue?_
 
-**Acceptance criteria**
-- [ ]
+**Acceptance criteria _(we'll know we're done when…)_** 
+- [ ] 
 - [ ] 
 
 **Tasks**
-- [ ] 
-- [ ] 
-
-**Definition of done**
-- [ ] 
-- [ ]
+- [ ] ...
+- [ ] ...
+- [ ]  PO review [if task involves content changes] 
+- [ ]  Accessibility review [if needed]
+- [ ]  Outreach approval [if needed]
