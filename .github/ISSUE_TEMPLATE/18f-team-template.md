@@ -11,8 +11,8 @@ assignees: ''
 _What should we consider when addressing this issue?_
 
 **Acceptance criteria _(we'll know we're done when…)_** 
-- [ ] 
-- [ ] 
+- [ ] ...
+- [ ] ...
 
 **Tasks**
 - [ ] ...
