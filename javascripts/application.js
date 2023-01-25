@@ -1,4 +1,5 @@
 ---
+layout: passthrough
 ---
 
 // ^ that up there is frontmatter tags so that Jekyll will process this file and
