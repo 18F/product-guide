@@ -1,3 +1,5 @@
+**⚠️ This guide has moved to the [consolidated 18F guides repository](https://github.com/18F/guides).**
+
 # 18F Product Guide
 
 You’ve been asked to serve as a product manager at 18F — now what? This guide will walk you through what it’s like to be a product manager at 18F and offer some tools you can use along the way. Whatever tools you decide to use are up to you and your team.
